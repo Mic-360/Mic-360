@@ -26,9 +26,6 @@
 
 [<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" style="padding:20px;" />](https://www.instagram.com/just.a.fat.rat/)
 
-[<img align="left" src="https://img.icons8.com/plasticine/100/000000/telegram-app.png" height="35" width="50" style="padding:20px;" />](https://t.me/bhaumic_kun)
-
-<br/>
 <br/>
 <br/>
 
