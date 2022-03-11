@@ -18,7 +18,7 @@
 ---
 
 
-<h4 align="center"> Terminals I'm Familiar </h4>
+<h4 align="center"> Terminals I'm Familiar with </h4>
 <p align='center'>
   <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
   <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
@@ -110,18 +110,22 @@
 <br/>
 <br/>
 
-<details align='left'>
-  <summary>:zap: GitHub Stats</summary>
-<p align='left'>
-  <h3>Statistics</h3>
-  <a href="#"><img alt="Mic-360 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mic-360&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /></a><br/>
-  <h3>Graph</h3>
-  <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mic-360&theme=monokai" /></a>
-</p>
-</details>
-<br/>
+
+# Metrics
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
 
 ---
+
+<details align='center'>
+  <summary>:zap: GitHub Stats</summary>
+<div align="center">
+  <h3 align='center'>Statistics</h3>
+          <img alt="Mic-360 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mic-360&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+  <h3 align='center'>Graph</h3>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mic-360&theme=monokai" />
+</div>
+</details>
+<br/>
 
 &nbsp; <p align="center"> [![Spotify](https://novatorem-mic-360.vercel.app/api/spotify/?background_color=0e1116&border_color=ffffff)](https://open.spotify.com/user/mic.360)</p>
 <h2 align='center'>Connect With Me.</h2>
