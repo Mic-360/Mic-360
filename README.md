@@ -113,7 +113,9 @@
 <details align='left'>
   <summary>:zap: GitHub Stats</summary>
 <p align='left'>
+  <h3>Statistics</h3>
   <a href="#"><img alt="Mic-360 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mic-360&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /></a><br/>
+  <h3>Graph</h3>
   <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mic-360&theme=monokai" /></a>
 </p>
 </details>
