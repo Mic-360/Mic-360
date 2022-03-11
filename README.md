@@ -117,7 +117,7 @@
 
  <h3>:zap: GitHub Stats</h3>
     <img alt="Mic-360 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mic-360&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-    <h3>Graph</h3>
+    <h3>📈 Graph</h3>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mic-360&theme=monokai" />
 </div>
 
@@ -125,11 +125,11 @@
 
 &nbsp; <p align="center"> [![Spotify](https://novatorem-mic-360.vercel.app/api/spotify/?background_color=0E1116)](https://open.spotify.com/user/mic.360)</p>
 
-![Snake animation](https://github.com/mic-360/mic-360/blob/output/github-contribution-grid-snake.svg)
-
 <h2 align='center'>Connect With Me.</h2>
 <p align='center'>
   <strong>Consider giving my work a :star: to show some :heart:</strong><br/><br/>
   <a href="https://www.facebook.com/Miczx.in"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" height="30" width="40" style="padding:20px;" /></a>
   <a href="https://www.instagram.com/just.a.fat.rat/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" style="padding:20px;" /></a>
 </p>
+
+![Snake animation](https://github.com/mic-360/mic-360/blob/output/github-contribution-grid-snake.svg)
