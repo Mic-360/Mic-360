@@ -15,6 +15,15 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRIC_SECRET }}
+          
+          #Extras
+          user: Mic-360
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          plugin_gists: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
           filename: metrics.plugin.anilist.characters.svg
           plugin_anilist: yes
           plugin_anilist_sections: characters
