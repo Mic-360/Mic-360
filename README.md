@@ -124,6 +124,7 @@
 
 ---
 
+&nbsp; <p align="center"> [![Spotify](https://novatorem-mic-360.vercel.app/api/spotify/?background_color=0e1116&border_color=ffffff)](https://open.spotify.com/user/mic.360)</p><br/>
 
 <h2 align='center'>Connect With Me.</h2>
 <p align='center'>
