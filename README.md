@@ -14,7 +14,9 @@
   <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
-<hr>
+
+---
+
 
 <h4 align="center"> Terminals I'm Familiar </h4>
 <p align='center'>
@@ -41,7 +43,9 @@
 
 - ⚡ Fun fact **Mic-360/Mic-360 is a ✨ special ✨ repository because it has `README.md` (this file) appearing on your GitHub.**
  
-<hr>
+
+---
+
 <br/>
 
  
@@ -115,7 +119,9 @@
 </details>
 <br/>
 
-<hr>
+
+---
+
 
 <h2 align='center'>Connect With Me.</h2>
 <p align='center'>
