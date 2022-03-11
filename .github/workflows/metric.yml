@@ -21,10 +21,12 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
+        
+          filename: metrics.plugin.anilist.characters.svg, metrics.plugin.isocalendar.svg
           plugin_gists: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          filename: metrics.plugin.anilist.characters.svg
+          
           plugin_anilist: yes
           plugin_anilist_sections: characters
           plugin_anilist_limit_characters: 22
