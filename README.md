@@ -125,6 +125,8 @@
 
 &nbsp; <p align="center"> [![Spotify](https://novatorem-mic-360.vercel.app/api/spotify/?background_color=0E1116)](https://open.spotify.com/user/mic.360)</p>
 
+![Snake animation](https://github.com/mic-360/mic-360/blob/output/github-contribution-grid-snake.svg)
+
 <h2 align='center'>Connect With Me.</h2>
 <p align='center'>
   <strong>Consider giving my work a :star: to show some :heart:</strong><br/><br/>
