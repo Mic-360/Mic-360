@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bhaumic Singh (@Mic-360)</h1>
-<h3 align="center">Currently pursuing my bachelor's degree majoring in Computer Science</h3>
-<h4 align="center">i ❤️ WSL </h4>
+<h3 align="center">Currently pursuing my bachelor's degree majoring in Computer Science.</h3>
+<h4 align="center">in ❤️ with WSL </h4>
 <br/>
+<p align='center'> <img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=blueviolet" /> </p>
 <br/>
 
 <h4 align="center"> 💻 My workspace </h4>
@@ -132,4 +133,4 @@
   <a href="https://www.instagram.com/just.a.fat.rat/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" style="padding:20px;" /></a>
 </p>
 
-![Snake animation](https://github.com/mic-360/mic-360/blob/output/github-contribution-grid-snake.svg)
+&nbsp; <p align="center"> ![Snake animation](https://github.com/mic-360/mic-360/blob/output/github-contribution-grid-snake.svg) </p>
