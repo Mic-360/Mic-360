@@ -2,7 +2,7 @@
 <h3 align="center">Currently pursuing my bachelor's degree majoring in Computer Science.</h3>
 <h4 align="center">in ❤️ with WSL </h4>
 <br/>
-<p align='center'> <img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=blueviolet" /> </p>
+<p align='center'> <img src="https://komarev.com/ghpvc/?username=mic-360&style=for-the-badge&color=blueviolet" /> </p>
 <br/>
 
 <h4 align="center"> 💻 My workspace </h4>
