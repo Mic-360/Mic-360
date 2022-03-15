@@ -5,7 +5,7 @@
 <p align='center'> <img src="https://komarev.com/ghpvc/?username=mic-360&style=for-the-badge&color=blueviolet" /> </p>
 <br/>
 
-<h4 align="center"> 💻 My workspace </h4>
+<h4 align="center"> My workspace </h4>
 <p align='center'>
   <img src="https://img.shields.io/badge/Android%2011-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/asus%20ROG%20Flow-000000?style=for-the-badge&logo=asus&logoColor=white" />
