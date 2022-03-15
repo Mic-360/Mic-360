@@ -18,7 +18,6 @@
 
 ---
 
-
 <h4 align="center"> Terminals I'm Familiar with </h4>
 <p align='center'>
   <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
@@ -43,14 +42,12 @@
 - 📫 How to reach me [**Mail**](mailto:bhaumiksingh2000@gmail.com)
 
 - ⚡ Fun fact **Mic-360/Mic-360 is a ✨ special ✨ repository because it has `README.md` (this file) appearing on your GitHub.**
- 
 
 ---
 
 <br/>
 
- 
-# 🫤 Languages and Tools: 
+# 🫤 Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding:20px;" />
 
@@ -90,8 +87,6 @@
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="padding:20px;" width="26px" />
 
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding:20px;" width="26px" />
-
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding:20px;" width="26px" />
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding:20px;" width="26px" />
@@ -114,7 +109,6 @@
 <div align="center">
  <h3> 📊 Metrics </h3>
   <img align="center" src="/github-metrics.svg" alt="Metrics" width="600">
-
 
  <h3>:zap: GitHub Stats</h3>
     <img alt="Mic-360 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mic-360&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
