@@ -61,19 +61,13 @@
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" style="padding:20px;" width="26px" />
 
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding:20px;" width="26px" />
-
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="padding:20px;" width="26px" />
-
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="padding:20px;" width="26px" />
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" style="padding:20px;" width="26px" />
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" style="padding:20px;" width="26px" />
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" style="padding:20px;" width="26px" />
-
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding:20px;" width="26px" />
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="padding:20px;" width="26px" />
 
@@ -85,17 +79,11 @@
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="padding:20px;" width="26px" /><br/>
 
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="padding:20px;" width="26px" />
-
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding:20px;" width="26px" />
-
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding:20px;" width="26px" />
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding:20px;" width="26px" />
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="padding:20px;" width="26px" />
-
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" style="padding-top:20px;" width="26px" />
   
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-top:20px;" width="26px" />
 
