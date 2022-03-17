@@ -99,10 +99,13 @@
 </div>
 
 <br/>
+<br/>
+<br/>
+
+<h2 align='center'>Connect With Me.</h2>
 
 &nbsp; <p align="center"> [![Spotify](https://novatorem-mic-360.vercel.app/api/spotify/?background_color=0E1116)](https://open.spotify.com/user/mic.360)</p>
 
-<h2 align='center'>Connect With Me.</h2>
 <p align='center'>
   <strong>Consider giving my work a :star: to show some :heart:</strong><br/><br/>
   <a href="https://www.facebook.com/Miczx.in"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" height="30" width="40" style="padding:20px;" /></a>
