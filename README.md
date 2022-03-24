@@ -41,8 +41,6 @@
 
 - 📫 How to reach me [**Mail**](mailto:bhaumiksingh2000@gmail.com)
 
-- ⚡ Fun fact **Mic-360/Mic-360 is a ✨ special ✨ repository because it has `README.md` (this file) appearing on your GitHub.**
-
 ---
 
 <br/>
