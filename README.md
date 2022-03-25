@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
   <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
 </p>
 <br/>
 <br/>
@@ -100,14 +101,17 @@
 <br/>
 <br/>
 
-<h2 align='center'>Connect With Me.</h2>
+<div align="center">
+<h2>Connect With Me.</h2>
+<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
 
-&nbsp; <p align="center"> [![Spotify](https://novatorem-mic-360.vercel.app/api/spotify/?background_color=0E1116)](https://open.spotify.com/user/mic.360)</p>
+[![Spotify](https://novatorem-mic-360.vercel.app/api/spotify/?background_color=0E1116)](https://open.spotify.com/user/mic.360)</p>
 
-<p align='center'>
+<p>
   <strong>Consider giving my work a :star: to show some :heart:</strong><br/><br/>
   <a href="https://www.facebook.com/Miczx.in"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" height="30" width="40" style="padding:20px;" /></a>
   <a href="https://www.instagram.com/just.a.fat.rat/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" style="padding:20px;" /></a>
 </p>
 
-&nbsp; <p align="center"> ![Snake animation](https://github.com/mic-360/mic-360/blob/output/github-contribution-grid-snake.svg) </p>
+&nbsp; <p> ![Snake animation](https://github.com/mic-360/mic-360/blob/output/github-contribution-grid-snake.svg) </p>
+</div>
