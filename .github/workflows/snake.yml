@@ -2,7 +2,7 @@ name: Snake Game
 
 on:
   schedule: # execute every 6 hours
-    - cron: "* */6 * * *"
+    - cron: "* */24 * * *"
   workflow_dispatch:
 
 jobs:
