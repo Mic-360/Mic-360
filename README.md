@@ -111,4 +111,8 @@
   <strong>Consider giving my work a :star: to show some :heart:</strong><br/><br/>
   <a href="https://www.facebook.com/Miczx.in"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" height="30" width="40" style="padding:20px;" /></a>
   <a href="https://www.instagram.com/just.a.fat.rat/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" style="padding:20px;" /></a>
+  <a href="https://www.linkedin.com/in/bhaumic/">
+    <img src="https://github.com/Mic-360/Mic-360/assets/50836731/2357b9ae-4f87-4df5-b468-d33dd8f7aa52" height="30" width="40" style="padding:10px; background-color:#7aa3f8;" />
+  </a>
+
 </p>
