@@ -28,7 +28,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on [**Bootstrap**](https://github.com/Mic-360/Web_Dev_Bootcamp)
+- 🔭 I’m currently working on **Bootstrap**
 
 - 🌱 I’m currently learning **Data Structures & Algo.**
 
