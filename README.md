@@ -9,8 +9,8 @@
 <p align='center'>
   <img src="https://img.shields.io/badge/Android%2013-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/asus%20ROG%20Flow-000000?style=for-the-badge&logo=asus&logoColor=white" />
-  <img src="https://img.shields.io/badge/windows%2011-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu%2022.10-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/windows%2011 insider-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu%2024.04-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/AMD%20Ryzen_9_5980HS-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
@@ -28,13 +28,13 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on **Bootstrap**
+- 🔭 I’m currently working on **NextJS**
 
 - 🌱 I’m currently learning **Data Structures & Algo.**
 
 - 👯 I’m looking to collaborate on **Flutter**
 
-- 🤝 I’m looking for help with [**Copilot Clone**](https://github.com/hieunc229/copilot-clone)
+- 🤝 I’m looking for help with **UWP UI/UX Designs**
 
 - 👨‍💻 All of my projects are available at [**Mic-360**](https://github.com/Mic-360)
 
@@ -60,7 +60,7 @@
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" style="padding:20px;" width="26px" />
 
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="padding:20px;" width="26px" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding:20px;" width="26px" />
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" style="padding:20px;" width="26px" />
 
@@ -76,7 +76,7 @@
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding:20px;" width="26px" />
 
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" style="padding:20px;" width="26px" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" style="padding:20px;" width="26px" />
   
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-top:20px;" width="26px" />
 
@@ -103,10 +103,6 @@
 
 <div align="center">
 <h2>Connect With Me.</h2>
-<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
-
-[![Spotify](https://novatorem-mic-360.vercel.app/api/spotify/?background_color=0E1116)](https://open.spotify.com/user/mic.360)</p>
-
 <p>
   <strong>Consider giving my work a :star: to show some :heart:</strong><br/><br/>
   <a href="https://www.facebook.com/Miczx.in"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" height="30" width="40" style="padding:20px;" /></a>
