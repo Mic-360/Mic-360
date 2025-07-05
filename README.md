@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhaumic Singh (@Mic-360)</h1>
-<h3 align="center">Currently pursuing my bachelor's degree majoring in Computer Science.</h3>
+<h3 align="center">Recently Graduated with Bachelor's Degree in Computer Science Engineering.</h3>
 <h4 align="center">in ❤️ with WSL </h4>
 <br/>
 <p align='center'> <img src="https://komarev.com/ghpvc/?username=mic-360&style=for-the-badge&color=blueviolet" /> </p>
@@ -14,21 +14,26 @@
   <img src="https://img.shields.io/badge/AMD%20Ryzen_9_5980HS-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/ios%2026-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
 ---
 
-<h4 align="center"> Terminals I'm Familiar with </h4>
+<h4 align="center">Terminals I'm Familiar with </h4>
 <p align='center'>
   <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
   <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white" />
+  <img src="https://img.shields.io/badge/warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white" />
+  <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" />
+  <img src="https://img.shields.io/badge/homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=white" />  
 </p>
 <br/>
 <br/>
 
-- 🔭 I’m currently working on **NextJS**
+- 🔭 I’m currently working on **KarkhanaHub**
 
 - 🌱 I’m currently learning **Data Structures & Algo.**
 
