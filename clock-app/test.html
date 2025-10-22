@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clock App - Automated Tests</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #f5f5f5;
+            padding: 2rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        h1 {
+            color: #333;
+        }
+        .test-section {
+            background: white;
+            padding: 1.5rem;
+            margin: 1rem 0;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .test-result {
+            padding: 0.5rem;
+            margin: 0.5rem 0;
+            border-radius: 4px;
+        }
+        .test-result.pass {
+            background: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+        .test-result.fail {
+            background: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+        button {
+            background: #667eea;
+            color: white;
+            border: none;
+            padding: 0.75rem 1.5rem;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 1rem;
+            margin: 0.5rem;
+        }
+        button:hover {
+            background: #5568d3;
+        }
+        #test-output {
+            font-family: monospace;
+            white-space: pre-wrap;
+            background: #f8f9fa;
+            padding: 1rem;
+            border-radius: 4px;
+            max-height: 400px;
+            overflow-y: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>Clock Manager - Automated Tests</h1>
+    
+    <div class="test-section">
+        <h2>Test Suite</h2>
+        <button onclick="runAllTests()">Run All Tests</button>
+        <button onclick="runManualTest()">Run Manual Visibility Test</button>
+        <div id="test-results"></div>
+    </div>
+
+    <div class="test-section">
+        <h2>Test Output</h2>
+        <div id="test-output"></div>
+    </div>
+
+    <script>
+        let testOutput = [];
+        
+        function log(message) {
+            testOutput.push(`[${new Date().toLocaleTimeString()}] ${message}`);
+            document.getElementById('test-output').textContent = testOutput.join('\n');
+        }
+
+        function addTestResult(name, passed, message) {
+            const resultsDiv = document.getElementById('test-results');
+            const resultDiv = document.createElement('div');
+            resultDiv.className = `test-result ${passed ? 'pass' : 'fail'}`;
+            resultDiv.textContent = `${passed ? '✓' : '✗'} ${name}: ${message}`;
+            resultsDiv.appendChild(resultDiv);
+            log(`Test: ${name} - ${passed ? 'PASSED' : 'FAILED'} - ${message}`);
+        }
+
+        // Mock ClockManager for testing
+        class TestableClockManager {
+            constructor() {
+                this.intervalId = null;
+                this.isRunning = false;
+                this.seconds = 0;
+                this.events = [];
+            }
+
+            setupLifecycleListeners() {
+                document.addEventListener('visibilitychange', () => {
+                    if (document.hidden) {
+                        this.onBackground();
+                    } else {
+                        this.onForeground();
+                    }
+                });
+            }
+
+            onBackground() {
+                this.events.push({ type: 'background', time: Date.now() });
+                this.stopClock();
+            }
+
+            onForeground() {
+                this.events.push({ type: 'foreground', time: Date.now() });
+                this.startClock();
+            }
+
+            startClock() {
+                if (this.isRunning) return;
+                this.isRunning = true;
+                this.intervalId = setInterval(() => {
+                    this.seconds++;
+                }, 1000);
+                this.events.push({ type: 'started', time: Date.now() });
+            }
+
+            stopClock() {
+                if (!this.isRunning) return;
+                this.isRunning = false;
+                if (this.intervalId) {
+                    clearInterval(this.intervalId);
+                    this.intervalId = null;
+                }
+                this.events.push({ type: 'stopped', time: Date.now() });
+            }
+
+            destroy() {
+                this.stopClock();
+            }
+        }
+
+        async function runAllTests() {
+            document.getElementById('test-results').innerHTML = '';
+            testOutput = [];
+            log('Starting test suite...\n');
+
+            // Test 1: ClockManager initialization
+            try {
+                const cm = new TestableClockManager();
+                addTestResult(
+                    'ClockManager Initialization',
+                    cm.isRunning === false && cm.seconds === 0,
+                    'ClockManager initialized with correct default values'
+                );
+                cm.destroy();
+            } catch (e) {
+                addTestResult('ClockManager Initialization', false, e.message);
+            }
+
+            // Test 2: Start clock functionality
+            try {
+                const cm = new TestableClockManager();
+                cm.startClock();
+                addTestResult(
+                    'Start Clock',
+                    cm.isRunning === true && cm.intervalId !== null,
+                    'Clock started successfully'
+                );
+                cm.destroy();
+            } catch (e) {
+                addTestResult('Start Clock', false, e.message);
+            }
+
+            // Test 3: Stop clock functionality
+            try {
+                const cm = new TestableClockManager();
+                cm.startClock();
+                cm.stopClock();
+                addTestResult(
+                    'Stop Clock',
+                    cm.isRunning === false && cm.intervalId === null,
+                    'Clock stopped successfully'
+                );
+                cm.destroy();
+            } catch (e) {
+                addTestResult('Stop Clock', false, e.message);
+            }
+
+            // Test 4: Background lifecycle
+            try {
+                const cm = new TestableClockManager();
+                cm.startClock();
+                cm.onBackground();
+                addTestResult(
+                    'Background Lifecycle',
+                    cm.isRunning === false,
+                    'Clock stops when going to background'
+                );
+                cm.destroy();
+            } catch (e) {
+                addTestResult('Background Lifecycle', false, e.message);
+            }
+
+            // Test 5: Foreground lifecycle
+            try {
+                const cm = new TestableClockManager();
+                cm.stopClock();
+                cm.onForeground();
+                addTestResult(
+                    'Foreground Lifecycle',
+                    cm.isRunning === true,
+                    'Clock starts when coming to foreground'
+                );
+                cm.destroy();
+            } catch (e) {
+                addTestResult('Foreground Lifecycle', false, e.message);
+            }
+
+            // Test 6: Event tracking
+            try {
+                const cm = new TestableClockManager();
+                cm.startClock();
+                cm.onBackground();
+                cm.onForeground();
+                const hasStarted = cm.events.some(e => e.type === 'started');
+                const hasStopped = cm.events.some(e => e.type === 'stopped');
+                const hasBackground = cm.events.some(e => e.type === 'background');
+                const hasForeground = cm.events.some(e => e.type === 'foreground');
+                addTestResult(
+                    'Event Tracking',
+                    hasStarted && hasStopped && hasBackground && hasForeground,
+                    'All lifecycle events are tracked correctly'
+                );
+                cm.destroy();
+            } catch (e) {
+                addTestResult('Event Tracking', false, e.message);
+            }
+
+            // Test 7: Page Visibility API support
+            try {
+                const supported = 'hidden' in document && 'visibilityState' in document;
+                addTestResult(
+                    'Page Visibility API Support',
+                    supported,
+                    supported ? 'Page Visibility API is supported' : 'Page Visibility API not supported'
+                );
+            } catch (e) {
+                addTestResult('Page Visibility API Support', false, e.message);
+            }
+
+            log('\nAll tests completed!');
+        }
+
+        function runManualTest() {
+            log('\nManual Test: Switch tabs to test visibility changes...');
+            log('Instructions:');
+            log('1. Keep this tab open');
+            log('2. Switch to another tab for 3-5 seconds');
+            log('3. Come back to this tab');
+            log('4. Check the results below\n');
+
+            const cm = new TestableClockManager();
+            cm.setupLifecycleListeners();
+            cm.startClock();
+
+            let eventCount = 0;
+            const checkEvents = setInterval(() => {
+                const newEvents = cm.events.slice(eventCount);
+                newEvents.forEach(event => {
+                    log(`Event detected: ${event.type} at ${new Date(event.time).toLocaleTimeString()}`);
+                });
+                eventCount = cm.events.length;
+            }, 500);
+
+            // Clean up after 60 seconds
+            setTimeout(() => {
+                clearInterval(checkEvents);
+                cm.destroy();
+                log('\nManual test completed. Check the events above.');
+            }, 60000);
+        }
+
+        // Auto-run tests on load
+        window.addEventListener('DOMContentLoaded', () => {
+            log('Test page loaded. Click "Run All Tests" to begin.\n');
+        });
+    </script>
+</body>
+</html>
