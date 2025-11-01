@@ -1,0 +1,117 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+
+.container {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    padding: 3rem;
+    border-radius: 20px;
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    text-align: center;
+    max-width: 600px;
+    width: 90%;
+}
+
+h1 {
+    margin-bottom: 2rem;
+    font-size: 2rem;
+    font-weight: 300;
+    letter-spacing: 2px;
+}
+
+.clock-display {
+    font-size: 4rem;
+    font-weight: bold;
+    margin: 2rem 0;
+    font-family: 'Courier New', monospace;
+    text-shadow: 0 0 20px rgba(255, 255, 255, 0.5);
+}
+
+.status {
+    font-size: 1.2rem;
+    margin: 1rem 0;
+    padding: 0.5rem 1rem;
+    border-radius: 25px;
+    display: inline-block;
+    transition: all 0.3s ease;
+}
+
+.status.running {
+    background: rgba(76, 175, 80, 0.3);
+    border: 2px solid #4CAF50;
+}
+
+.status.stopped {
+    background: rgba(244, 67, 54, 0.3);
+    border: 2px solid #f44336;
+}
+
+.info {
+    margin-top: 2rem;
+    padding: 1rem;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 10px;
+    font-size: 0.9rem;
+    line-height: 1.6;
+}
+
+.info p {
+    margin: 0.5rem 0;
+}
+
+.logs {
+    margin-top: 2rem;
+    padding: 1rem;
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    max-height: 200px;
+    overflow-y: auto;
+    text-align: left;
+    font-size: 0.8rem;
+    font-family: 'Courier New', monospace;
+}
+
+.log-entry {
+    padding: 0.3rem 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.log-entry:last-child {
+    border-bottom: none;
+}
+
+.log-entry .timestamp {
+    color: #4CAF50;
+    margin-right: 0.5rem;
+}
+
+.log-entry .event {
+    color: #fff;
+}
+
+@media (max-width: 768px) {
+    .container {
+        padding: 2rem;
+    }
+
+    h1 {
+        font-size: 1.5rem;
+    }
+
+    .clock-display {
+        font-size: 3rem;
+    }
+}
