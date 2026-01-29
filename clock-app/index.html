@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clock App - Lifecycle Management</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Clock with Lifecycle Management</h1>
+        <div class="clock-display" id="clock">00:00:00</div>
+        <div class="status" id="status">Clock is running</div>
+        <div class="info">
+            <p>This clock automatically stops when the app goes into the background and resumes when it comes back to the foreground.</p>
+            <p>Try switching to another tab or minimizing the browser to see the behavior.</p>
+        </div>
+        <div class="logs" id="logs"></div>
+    </div>
+    <script src="clock.js"></script>
+</body>
+</html>
