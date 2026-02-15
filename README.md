@@ -1,11 +1,89 @@
-<h1 align="center">Hi 👋, I'm Bhaumic Singh (@Mic-360)</h1>
-<h3 align="center">Recently Graduated with Bachelor's Degree in Computer Science Engineering.</h3>
-<h4 align="center">in ❤️ with WSL </h4>
-<br/>
-<p align='center'> <img src="https://komarev.com/ghpvc/?username=mic-360&style=for-the-badge&color=blueviolet" /> </p>
+<!-- Profile Image and GitHub Stats Section -->
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQFLOTzBQ3mpTg/profile-displayphoto-scale_100_100/B56ZtyMFj.HkAc-/0/1767147331597?e=1772668800&v=beta&t=LfXB7enKsy4Q1XeswU_7rZhJGZI7IVI81aziNSp8bjA" width="20%" align="middle" style="vertical-align: middle;" alt="Profile" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mic-360&theme=transparent" width="75%" align="middle" style="vertical-align: middle;" alt="Stats" />
+</div>
+
 <br/>
 
-<h4 align="center"> My workspace </h4>
+<!-- Summary Cards Section -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mic-360&theme=transparent" alt="Repos per Language" width="24%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mic-360&theme=transparent" alt="Most Commit Language" width="24%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mic-360&theme=transparent" alt="Stats" width="24%" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mic-360&theme=transparent" alt="Productive Time" width="25%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="/github-metrics.svg" alt="Metrics" width="60%" />
+</div>
+
+<br/>
+<br/>
+
+<br/>
+
+<!-- Languages and Tools Section -->
+<h2 align="center">🫤 Languages and Tools</h2>
+
+<br/>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflareworkers/cloudflareworkers-original.svg" alt="Cloudflare Workers" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" alt="Android" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="Gitlab" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original.svg" alt="Homebrew" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="YAML" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" alt="Svelte" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidjs/solidjs-original.svg" alt="SolidJS" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/llvm/llvm-original.svg" alt="LLVM" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" alt="Ionic" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="40" height="40" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase" width="40" height="40" style="margin: 10px;" />
+</p>
+
+<br/>
+<br/>
+
+---
+
+<br/>
+
+<!-- Workspace Section -->
+<h4 align="center">My Workspace</h4>
+
 <p align='center'>
   <img src="https://img.shields.io/badge/Android%2013-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/asus%20ROG%20Flow-000000?style=for-the-badge&logo=asus&logoColor=white" />
@@ -17,9 +95,15 @@
   <img src="https://img.shields.io/badge/ios%2026-000000?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
+<br/>
+
 ---
 
-<h4 align="center">Terminals I'm Familiar with </h4>
+<br/>
+
+<!-- Terminals Section -->
+<h4 align="center">Terminals I'm Familiar With</h4>
+
 <p align='center'>
   <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" />
   <img src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
@@ -30,16 +114,23 @@
   <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" />
   <img src="https://img.shields.io/badge/homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=white" />  
 </p>
+
 <br/>
 <br/>
 
-- 🔭 I’m currently working on **KarkhanaHub**
+---
 
-- 🌱 I’m currently learning **Data Structures & Algo.**
+<br/>
 
-- 👯 I’m looking to collaborate on **Flutter**
+<!-- About Me Section -->
 
-- 🤝 I’m looking for help with **UWP UI/UX Designs**
+- 🔭 I'm currently working on **KarkhanaHub**
+
+- 🌱 I'm currently learning **Data Structures & Algo.**
+
+- 👯 I'm looking to collaborate on **Flutter**
+
+- 🤝 I'm looking for help with **UWP UI/UX Designs**
 
 - 👨‍💻 All of my projects are available at [**Mic-360**](https://github.com/Mic-360)
 
@@ -47,86 +138,28 @@
 
 - 📫 How to reach me [**Mail**](mailto:bhaumiksingh2000@gmail.com)
 
----
-
-<br/>
-
-# 🫤 Languages and Tools
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="C" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" alt="Azure DevOps" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflareworkers/cloudflareworkers-original.svg" alt="Cloudflare Workers" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" alt="Android" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="26px" align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" alt="Gitlab" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original.svg" alt="Homebrew" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" alt="YAML" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" alt="Rust" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="Terraform" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" alt="Svelte" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidjs/solidjs-original.svg" alt="SolidJS" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" alt="Solidity" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="Nginx" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/llvm/llvm-original.svg" alt="LLVM" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" alt="Ionic" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="Grafana" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="GraphQL" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="26px" align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase" width="26px" align="left">
-
-          
 <br/>
 <br/>
 
 <br/>
+<br/>
 
----
-
+<!-- Connect With Me Section -->
 <div align="center">
- <h3> 📊 Metrics </h3>
-  <img align="center" src="/github-metrics.svg" alt="Metrics" width="600">
-
- <h3>:zap: GitHub Stats</h3>
-    <img alt="Mic-360 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mic-360&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-    <h3>📈 Graph</h3>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mic-360&theme=monokai" />
+<h2>Connect With Me</h2>
+<p align='center'> <img src="https://komarev.com/ghpvc/?username=mic-360&style=for-the-badge&color=blueviolet" /> </p>
+<p>
+  <strong>Consider giving my work a :star: to show some :heart:</strong><br/><br/>
+  <a href="https://www.facebook.com/fb.bhaumic.singh"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" height="40" width="40" style="padding:20px;" /></a>
+  <a href="https://www.instagram.com/bhaumic.singh/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" style="padding:20px;" /></a>
+  <a href="https://www.linkedin.com/in/bhaumic/">
+    <img src="https://github.com/Mic-360/Mic-360/assets/50836731/2357b9ae-4f87-4df5-b468-d33dd8f7aa52" height="40" width="40" style="padding:10px; background-color:#7aa3f8;" />
+  </a>
+  <a href="https://x.com/bhaumicsingh">
+    <img src="https://cdn-icons-png.flaticon.com/512/3621/3621452.png" height="40" width="40" style="background-color:#7aa3f8;" />
+  </a>
+</p>
 </div>
 
 <br/>
 <br/>
-<br/>
-
-<div align="center">
-<h2>Connect With Me.</h2>
-<p>
-  <strong>Consider giving my work a :star: to show some :heart:</strong><br/><br/>
-  <a href="https://www.facebook.com/Miczx.in"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" height="30" width="40" style="padding:20px;" /></a>
-  <a href="https://www.instagram.com/just.a.fat.rat/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" style="padding:20px;" /></a>
-  <a href="https://www.linkedin.com/in/bhaumic/">
-    <img src="https://github.com/Mic-360/Mic-360/assets/50836731/2357b9ae-4f87-4df5-b468-d33dd8f7aa52" height="30" width="40" style="padding:10px; background-color:#7aa3f8;" />
-  </a>
-
-</p>
