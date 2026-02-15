@@ -11,7 +11,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mic-360&theme=transparent" alt="Repos per Language" width="24%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mic-360&theme=transparent" alt="Most Commit Language" width="24%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mic-360&theme=transparent" alt="Stats" width="24%" />
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mic-360&theme=transparent" alt="Productive Time" width="25%" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mic-360&theme=transparent&utcOffset=5.30" alt="Productive Time" width="25%" />
 </div>
 
 <br/>
