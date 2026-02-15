@@ -146,23 +146,27 @@
 
 <!-- Connect With Me Section -->
 <div align="center">
-<h2>Connect With Me</h2>
-<p align='center'> <img src="https://komarev.com/ghpvc/?username=mic-360&style=for-the-badge&color=blueviolet" /> </p>
-<p>
-  <strong>Consider giving my work a :star: to show some :heart:</strong><br/><br/>
-  <a href="https://www.facebook.com/fb.bhaumic.singh"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" height="40" width="40" style="padding:20px;" /></a>
-  <a href="https://www.instagram.com/bhaumic.singh/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" style="padding:20px;" /></a>
-  <a href="https://www.linkedin.com/in/bhaumic/">
-    <img src="https://github.com/Mic-360/Mic-360/assets/50836731/2357b9ae-4f87-4df5-b468-d33dd8f7aa52" height="40" width="40" style="padding:10px; background-color:#7aa3f8;" />
-  </a>
-  <a href="https://x.com/bhaumicsingh">
-    <img src="https://cdn-icons-png.flaticon.com/512/3621/3621452.png" height="40" width="40" style="background-color:#7aa3f8;" />
-  </a>
-</p>
+  <h2>Connect With Me</h2>
+  <p align='center'>
+    <img src="https://komarev.com/ghpvc/?username=mic-360&style=for-the-badge&color=blueviolet" alt="Profile views"/>
+  </p>
+  <p>
+    <strong>Consider giving my work a :star: to show some :heart:</strong>
+    <br/><br/>
+    <a href="https://www.facebook.com/fb.bhaumic.singh">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white&color=black" height="35" alt="Facebook" />
+    </a>
+    <a href="https://www.instagram.com/bhaumic.singh/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white&color=black" height="35" alt="Instagram" />
+    </a>
+    <a href="https://www.linkedin.com/in/bhaumic/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&color=black" height="35" alt="LinkedIn" />
+    </a>
+    <a href="https://x.com/bhaumicsingh">
+      <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white&color=black" height="35" alt="X" />
+    </a>
+  </p>
 </div>
-
-<br/>
-<br/>
 
 <div align="center">
   <img src="/space-shooter.gif" alt="game" width="100%" />
