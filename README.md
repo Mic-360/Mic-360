@@ -1,6 +1,6 @@
 <!-- Profile Image and GitHub Stats Section -->
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5603AQFLOTzBQ3mpTg/profile-displayphoto-scale_100_100/B56ZtyMFj.HkAc-/0/1767147331597?e=1772668800&v=beta&t=LfXB7enKsy4Q1XeswU_7rZhJGZI7IVI81aziNSp8bjA" width="20%" align="middle" style="vertical-align: middle;" alt="Profile" />
+  <img src="/profile.jpg" width="20%" align="middle" style="vertical-align: middle;" alt="Profile" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mic-360&theme=transparent" width="75%" align="middle" style="vertical-align: middle;" alt="Stats" />
 </div>
 
@@ -17,7 +17,7 @@
 <br/>
 
 <div align="center">
-  <img src="/github-metrics.svg" alt="Metrics" width="60%" />
+  <img src="/github-metrics.svg" alt="Metrics" width="100%" />
 </div>
 
 <br/>
@@ -163,3 +163,7 @@
 
 <br/>
 <br/>
+
+<div align="center">
+  <img src="/space-shooter.gif" alt="game" width="100%" />
+</div>
