@@ -118,29 +118,6 @@
 <br/>
 <br/>
 
----
-
-<br/>
-
-<!-- About Me Section -->
-
-- 🔭 I'm currently working on **KarkhanaHub**
-
-- 🌱 I'm currently learning **Data Structures & Algo.**
-
-- 👯 I'm looking to collaborate on **Flutter**
-
-- 🤝 I'm looking for help with **UWP UI/UX Designs**
-
-- 👨‍💻 All of my projects are available at [**Mic-360**](https://github.com/Mic-360)
-
-- 💬 Ask me about **Anything which includes tech**
-
-- 📫 How to reach me [**Mail**](mailto:bhaumiksingh2000@gmail.com)
-
-<br/>
-<br/>
-
 <br/>
 <br/>
 
