@@ -1,15 +1,3 @@
-<!-- HEADER WAVE BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bhaumic%20Singh&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Systems%20Hacker%20%7C%20Open%20Source%20Builder&descAlignY=58&descAlign=50" width="100%" />
-
-<!-- TYPING SVG INTRO -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=7B5CF6&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=46&lines=Building+production-grade+software+%F0%9F%9A%80;Shipping+open+source+tools+that+solve+real+problems;Self-hosting+everything+I+possibly+can+%F0%9F%8F%A0;From+Android+ROMs+to+AI-powered+web+apps" alt="Typing SVG" />
-  </a>
-</div>
-
-<br/>
-
 <!-- PROFILE IMAGE + STATS -->
 <div align="center">
   <img src="/profile.jpg" width="18%" align="middle" style="border-radius:50%; vertical-align: middle;" alt="Bhaumic Singh" />
@@ -231,7 +219,7 @@ A system designed to predict equipment failures using machine learning algorithm
 
 ### [realtime-tracking](https://github.com/Mic-360/realtime-tracking)
 
-Realtime Tracking is a web app for sharing geolocation in real-time. It uses Node.js, Express, Socket.io, and Leaflet.js. Features include live location updates on an interactive map, automatic marker updates, and user disconnection handling. 
+Realtime Tracking is a web app for sharing geolocation in real-time. It uses Node.js, Express, Socket.io, and Leaflet.js. Features include live location updates on an interactive map, automatic marker updates, and user disconnection handling.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 
@@ -279,7 +267,7 @@ A simple JSON Web Token based authentication server.
 
 ### [Twinverse-Space](https://github.com/Mic-360/Twinverse-Space)
 
-Early Demo Site with Deno and Fresh 
+Early Demo Site with Deno and Fresh
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
@@ -601,5 +589,3 @@ Device Tree for ASUS ZenFone Max Pro (M2) ZB630/1KL The ASUS ZenFone Max Pro (M2
 <div align="center">
   <img src="/space-shooter.gif" alt="game" width="100%" />
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&AlignY=58&descAlign=50&direction=rtl" style="transform: scaleY(-1);" width="100%" />
