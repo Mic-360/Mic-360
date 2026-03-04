@@ -98,7 +98,7 @@ AI Feedbacks is a web application designed to transform application issues and b
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![License](https://img.shields.io/badge/%F0%9F%93%9C-Apache--2.0-000?style=flat-square)
 
-[📂 Source](https://github.com/Mic-360/ai-feedbacks)
+[📂 Source](https://github.com/Mic-360/ai-feedbacks) · [🌐 Demo](https://ai-feedbacks.bhaumicsingh.tech)
 
 </td>
 </tr>
@@ -111,7 +111,7 @@ A minimalist, high-performance personal portfolio built with the bleeding edge T
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![License](https://img.shields.io/badge/%F0%9F%93%9C-MIT-000?style=flat-square)
 
-[📂 Source](https://github.com/Mic-360/portfolio) · [🌐 Demo](https://vcr-changes-task-polls.trycloudflare.com/)
+[📂 Source](https://github.com/Mic-360/portfolio) · [🌐 Demo](https://bhaumicsingh.dev)
 
 </td>
 <td width="50%" valign="top">
@@ -164,52 +164,41 @@ A JavaScript-based project by Mic-360 for interactive or visual experiences, fea
 </td>
 <td width="50%" valign="top">
 
-### [learn-rust](https://github.com/Mic-360/learn-rust)
-
-This repository contains small projects to understand basic concepts of rust programming language.
-
-![Unknown](https://img.shields.io/badge/-Unknown-555555?style=flat-square)
-
-[📂 Source](https://github.com/Mic-360/learn-rust)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### [tryon-modal](https://github.com/Mic-360/tryon-modal)
 
-_No description provided._
+TwinTry™ is a cutting-edge virtual try-on module that allows users to visualize products on themselves or models in real-time. Built with React Router v7 and powered by Twinverse's AI inference engine, it provides a seamless and interactive shopping experience.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 [📂 Source](https://github.com/Mic-360/tryon-modal) · [🌐 Demo](https://twintry-modal.vercel.app)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [lost-treasure](https://github.com/Mic-360/lost-treasure)
 
-_No description provided._
+Lost Treasure is a JavaScript-based game where players navigate through various levels to collect treasures while avoiding enemies and obstacles. The game is built using HTML5, CSS, and JavaScript, and it leverages the Canvas API for rendering the game graphics.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 
 [📂 Source](https://github.com/Mic-360/lost-treasure)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [tryon-dash](https://github.com/Mic-360/tryon-dash)
 
-_No description provided._
+TryOn Dash is an internal monitoring and management platform for Twinverse Tech's virtual try-on services. It empowers admins to manage business partnerships and monitor processing logs in real-time.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Forks](https://img.shields.io/badge/%F0%9F%94%B1-2-000?style=flat-square)
 
 [📂 Source](https://github.com/Mic-360/tryon-dash) · [🌐 Demo](https://tryon-dash.vercel.app)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [iot-predictive-maintainance-system](https://github.com/Mic-360/iot-predictive-maintainance-system)
@@ -223,8 +212,6 @@ A system designed to predict equipment failures using machine learning algorithm
 [📂 Source](https://github.com/Mic-360/iot-predictive-maintainance-system)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [realtime-tracking](https://github.com/Mic-360/realtime-tracking)
@@ -236,6 +223,8 @@ Realtime Tracking is a web app for sharing geolocation in real-time. It uses Nod
 [📂 Source](https://github.com/Mic-360/realtime-tracking)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [link-tree-bento](https://github.com/Mic-360/link-tree-bento)
@@ -247,8 +236,6 @@ This is a link tree project made using sveltekit and firebase to manage all my s
 [📂 Source](https://github.com/Mic-360/link-tree-bento)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [blog-site](https://github.com/Mic-360/blog-site)
@@ -258,17 +245,6 @@ This is a blog site built with SvelteKit. Which covers the adventures of my deve
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![License](https://img.shields.io/badge/%F0%9F%93%9C-MIT-000?style=flat-square)
 
 [📂 Source](https://github.com/Mic-360/blog-site) · [🌐 Demo](https://blog-bhaumics-projects.vercel.app/)
-
-</td>
-<td width="50%" valign="top">
-
-### [Weather-Scope](https://github.com/Mic-360/Weather-Scope)
-
-Unveiling the Skies with Augmented Reality
-
-![Unknown](https://img.shields.io/badge/-Unknown-555555?style=flat-square)
-
-[📂 Source](https://github.com/Mic-360/Weather-Scope)
 
 </td>
 </tr>
@@ -346,7 +322,7 @@ A fully scalable template for industrial and professional use.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Stars](https://img.shields.io/badge/%E2%AD%90-1-000?style=flat-square) ![License](https://img.shields.io/badge/%F0%9F%93%9C-Unlicense-000?style=flat-square)
 
-[📂 Source](https://github.com/Mic-360/Next-js-Scalable) · [🌐 Demo](next-js-scalable.vercel.app)
+[📂 Source](https://github.com/Mic-360/Next-js-Scalable)
 
 </td>
 </tr>
@@ -462,7 +438,7 @@ _No description provided._
 
 ### [device_asus_sdm660-common](https://github.com/Mic-360/device_asus_sdm660-common)
 
-_No description provided._
+Common device tree for SDM660 based ASUS devices
 
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Stars](https://img.shields.io/badge/%E2%AD%90-1-000?style=flat-square)
 
@@ -475,7 +451,7 @@ _No description provided._
 
 ### [device_asus_X01BD](https://github.com/Mic-360/device_asus_X01BD)
 
-_No description provided._
+Device Tree for ASUS ZenFone Max Pro (M2) ZB630/1KL The ASUS ZenFone Max Pro (M2) (codenamed "X01BD") is mid-range smartphone from ASUS. It was announced in December 2018.
 
 ![Makefile](https://img.shields.io/badge/-Makefile-427819?style=flat-square&logo=cmake&logoColor=white) ![Stars](https://img.shields.io/badge/%E2%AD%90-2-000?style=flat-square)
 
