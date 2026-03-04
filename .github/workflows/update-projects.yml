@@ -23,9 +23,19 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          curl -H "Authorization: token $GITHUB_TOKEN" \
+          set -euo pipefail
+          tmpfile="$(mktemp)"
+          if curl --fail-with-body \
+               -H "Authorization: token $GITHUB_TOKEN" \
                -H "Accept: application/vnd.github.v3+json" \
-               "https://api.github.com/users/Mic-360/repos?per_page=100" > repos-data.json
+               "https://api.github.com/users/Mic-360/repos?per_page=100" \
+               -o "$tmpfile"; then
+            mv "$tmpfile" repos-data.json
+          else
+            echo "Failed to fetch repositories from GitHub API" >&2
+            rm -f "$tmpfile"
+            exit 1
+          fi
 
       - name: Generate projects section
         run: node generate-projects.js
