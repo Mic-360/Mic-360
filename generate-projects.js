@@ -116,11 +116,17 @@ function updateReadme(reposData) {
     const projectsMarker = /## 🚀 Projects[\s\S]*?(?=<h2|$)/;
     readme = readme.replace(projectsMarker, '');
 
-    // Then insert before Languages and Tools section
-    const insertPosition = readme.indexOf('<h2 align="center">🫤 Languages and Tools</h2>');
+    // Then insert before Languages and Tools section using a stable marker
+    let insertPosition = readme.indexOf('<!-- Languages and Tools Section -->');
+    if (insertPosition === -1) {
+      // Fallback for older READMEs that still use the explicit <h2> heading
+      insertPosition = readme.indexOf('<h2 align="center">🫤 Languages and Tools</h2>');
+    }
+
     if (insertPosition !== -1) {
       readme = readme.slice(0, insertPosition) + projectsSection + '\n' + readme.slice(insertPosition);
     } else {
+      // If no marker or heading is found, append the Projects section at the end
       readme += '\n\n' + projectsSection;
     }
 
