@@ -112,17 +112,16 @@ function updateReadme(reposData) {
 
     let readme = fs.readFileSync('README.md', 'utf8');
 
-    const projectsMarker = /## 🚀 Projects[\s\S]*?(?=##|<br\/>|---|\n\n<|$)/;
+    // First, remove any existing Projects section
+    const projectsMarker = /## 🚀 Projects[\s\S]*?(?=<h2|$)/;
+    readme = readme.replace(projectsMarker, '');
 
-    if (projectsMarker.test(readme)) {
-      readme = readme.replace(projectsMarker, projectsSection + '\n');
+    // Then insert before Languages and Tools section
+    const insertPosition = readme.indexOf('<h2 align="center">🫤 Languages and Tools</h2>');
+    if (insertPosition !== -1) {
+      readme = readme.slice(0, insertPosition) + projectsSection + '\n' + readme.slice(insertPosition);
     } else {
-      const insertPosition = readme.indexOf('## 🫤 Languages and Tools');
-      if (insertPosition !== -1) {
-        readme = readme.slice(0, insertPosition) + projectsSection + '\n' + readme.slice(insertPosition);
-      } else {
-        readme += '\n\n' + projectsSection;
-      }
+      readme += '\n\n' + projectsSection;
     }
 
     fs.writeFileSync('README.md', readme);

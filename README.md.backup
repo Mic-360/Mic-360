@@ -26,129 +26,6 @@
 <br/>
 
 <!-- Languages and Tools Section -->
-## 🚀 Projects
-
-#### Developer Tools
-
-### auto-copilot-review
-Auto Copilot Review seamlessly integrates GitHub Copilot Chat into your Git workflow. Every time you stage files, the extension automatically triggers Copilot to review your changes within seconds. Perfect for catching bugs early and maintaining code quality without breaking your development flow.
-
-**Tech:** TypeScript  
-**Repo:** https://github.com/Mic-360/auto-copilot-review
-
-#### Web Applications
-
-### link-shorterner-hacktoberfest
-HacktoberFest: Link Shortener with Next js and Vercel Edge Functions using PlanetScaleDB, TypeScript and Prisma
-
-**Tech:** TypeScript | hacktoberfest, hacktoberfest-accepted, hacktoberfest2022  
-**Repo:** https://github.com/Mic-360/link-shorterner-hacktoberfest | ⭐ 10
-
-### Next-js-Scalable
-A fully scalable template for industrial and professional use.
-
-**Tech:** TypeScript  
-**Repo:** https://github.com/Mic-360/Next-js-Scalable | ⭐ 1
-
-### Twinverse-Space
-Early Demo Site with Deno and Fresh
-
-**Tech:** TypeScript | deno, fresh, preact  
-**Repo:** https://github.com/Mic-360/Twinverse-Space
-
-### iot-predictive-maintainance-system
-A system designed to predict equipment failures using machine learning algorithms. Key features include real-time monitoring of IoT devices, anomaly detection, and maintenance scheduling. Integrates Node-RED for data flow, Next.js dashboard for visualization and analytics.
-
-**Tech:** TypeScript | docker, github-models, gpt-4o-mini  
-**Repo:** https://github.com/Mic-360/iot-predictive-maintainance-system
-
-#### Mobile Applications
-
-### loginauth
-No description available
-
-**Tech:** Dart  
-**Repo:** https://github.com/Mic-360/loginauth | ⭐ 1
-
-### flutterfire
-No description available
-
-**Tech:** Dart  
-**Repo:** https://github.com/Mic-360/flutterfire | ⭐ 1
-
-### medipartner
-No description available
-
-**Tech:** Dart  
-**Repo:** https://github.com/Mic-360/medipartner | ⭐ 1
-
-### fablabUI
-No description available
-
-**Tech:** Dart  
-**Repo:** https://github.com/Mic-360/fablabUI | ⭐ 1
-
-### code4odisha-app
-No description available
-
-**Tech:** Dart  
-**Repo:** https://github.com/Mic-360/code4odisha-app
-
-#### Learning & Open Source
-
-### Web_Dev_Bootcamp
-No description available
-
-**Tech:** HTML  
-**Repo:** https://github.com/Mic-360/Web_Dev_Bootcamp | ⭐ 2
-
-#### Android Development
-
-### device_asus_X01BD
-No description available
-
-**Tech:** Makefile  
-**Repo:** https://github.com/Mic-360/device_asus_X01BD | ⭐ 2
-
-### vendor_asus
-No description available
-
-**Tech:** Makefile  
-**Repo:** https://github.com/Mic-360/vendor_asus | ⭐ 1
-
-### device_asus_sdm660-common
-No description available
-
-**Tech:** C++  
-**Repo:** https://github.com/Mic-360/device_asus_sdm660-common | ⭐ 1
-
-#### Other Projects
-
-### webpack-typescript
-No description available
-
-**Tech:** JavaScript  
-**Repo:** https://github.com/Mic-360/webpack-typescript | ⭐ 1
-
-### AndroidEmulator-sdk
-No description available
-
-**Tech:** Unknown  
-**Repo:** https://github.com/Mic-360/AndroidEmulator-sdk | ⭐ 1
-
-### gemtry-twinverse
-A JavaScript-based project by Mic-360 for interactive or visual experiences, featuring significant CSS styling. Designed for web applications, it leverages modern web technologies for dynamic user interfaces.
-
-**Tech:** JavaScript  
-**Repo:** https://github.com/Mic-360/gemtry-twinverse
-
-### link-tree-bento
-This is a link tree project made using sveltekit and firebase to manage all my social media links and resources.
-
-**Tech:** Svelte  
-**Repo:** https://github.com/Mic-360/link-tree-bento
-
-
 <h2 align="center">🫤 Languages and Tools</h2>
 
 <br/>
@@ -272,4 +149,126 @@ This is a link tree project made using sveltekit and firebase to manage all my s
   <img src="/space-shooter.gif" alt="game" width="100%" />
 </div>
 
+
+## 🚀 Projects
+
+#### Developer Tools
+
+### auto-copilot-review
+Auto Copilot Review seamlessly integrates GitHub Copilot Chat into your Git workflow. Every time you stage files, the extension automatically triggers Copilot to review your changes within seconds. Perfect for catching bugs early and maintaining code quality without breaking your development flow.
+
+**Tech:** TypeScript  
+**Repo:** https://github.com/Mic-360/auto-copilot-review
+
+#### Web Applications
+
+### link-shorterner-hacktoberfest
+HacktoberFest: Link Shortener with Next js and Vercel Edge Functions using PlanetScaleDB, TypeScript and Prisma
+
+**Tech:** TypeScript | hacktoberfest, hacktoberfest-accepted, hacktoberfest2022  
+**Repo:** https://github.com/Mic-360/link-shorterner-hacktoberfest | ⭐ 10
+
+### Next-js-Scalable
+A fully scalable template for industrial and professional use.
+
+**Tech:** TypeScript  
+**Repo:** https://github.com/Mic-360/Next-js-Scalable | ⭐ 1
+
+### Twinverse-Space
+Early Demo Site with Deno and Fresh
+
+**Tech:** TypeScript | deno, fresh, preact  
+**Repo:** https://github.com/Mic-360/Twinverse-Space
+
+### iot-predictive-maintainance-system
+A system designed to predict equipment failures using machine learning algorithms. Key features include real-time monitoring of IoT devices, anomaly detection, and maintenance scheduling. Integrates Node-RED for data flow, Next.js dashboard for visualization and analytics.
+
+**Tech:** TypeScript | docker, github-models, gpt-4o-mini  
+**Repo:** https://github.com/Mic-360/iot-predictive-maintainance-system
+
+#### Mobile Applications
+
+### loginauth
+No description available
+
+**Tech:** Dart  
+**Repo:** https://github.com/Mic-360/loginauth | ⭐ 1
+
+### flutterfire
+No description available
+
+**Tech:** Dart  
+**Repo:** https://github.com/Mic-360/flutterfire | ⭐ 1
+
+### medipartner
+No description available
+
+**Tech:** Dart  
+**Repo:** https://github.com/Mic-360/medipartner | ⭐ 1
+
+### fablabUI
+No description available
+
+**Tech:** Dart  
+**Repo:** https://github.com/Mic-360/fablabUI | ⭐ 1
+
+### code4odisha-app
+No description available
+
+**Tech:** Dart  
+**Repo:** https://github.com/Mic-360/code4odisha-app
+
+#### Learning & Open Source
+
+### Web_Dev_Bootcamp
+No description available
+
+**Tech:** HTML  
+**Repo:** https://github.com/Mic-360/Web_Dev_Bootcamp | ⭐ 2
+
+#### Android Development
+
+### device_asus_X01BD
+No description available
+
+**Tech:** Makefile  
+**Repo:** https://github.com/Mic-360/device_asus_X01BD | ⭐ 2
+
+### vendor_asus
+No description available
+
+**Tech:** Makefile  
+**Repo:** https://github.com/Mic-360/vendor_asus | ⭐ 1
+
+### device_asus_sdm660-common
+No description available
+
+**Tech:** C++  
+**Repo:** https://github.com/Mic-360/device_asus_sdm660-common | ⭐ 1
+
+#### Other Projects
+
+### webpack-typescript
+No description available
+
+**Tech:** JavaScript  
+**Repo:** https://github.com/Mic-360/webpack-typescript | ⭐ 1
+
+### AndroidEmulator-sdk
+No description available
+
+**Tech:** Unknown  
+**Repo:** https://github.com/Mic-360/AndroidEmulator-sdk | ⭐ 1
+
+### gemtry-twinverse
+A JavaScript-based project by Mic-360 for interactive or visual experiences, featuring significant CSS styling. Designed for web applications, it leverages modern web technologies for dynamic user interfaces.
+
+**Tech:** JavaScript  
+**Repo:** https://github.com/Mic-360/gemtry-twinverse
+
+### link-tree-bento
+This is a link tree project made using sveltekit and firebase to manage all my social media links and resources.
+
+**Tech:** Svelte  
+**Repo:** https://github.com/Mic-360/link-tree-bento
 
