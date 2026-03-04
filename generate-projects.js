@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 const GITHUB_USERNAME = 'Mic-360';
-const PROFILE_REPO = 'Mic-360/Mic-360';
+const PROFILE_REPO = `${GITHUB_USERNAME}/${GITHUB_USERNAME}`;
 
 function categorizeProject(repo) {
   const name = repo.name.toLowerCase();
