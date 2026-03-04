@@ -25,7 +25,6 @@
 
 <br/>
 
-<!-- Languages and Tools Section -->
 ## 🚀 Projects
 
 #### Developer Tools
@@ -50,37 +49,25 @@ A fully scalable template for industrial and professional use.
 **Tech:** TypeScript  
 **Repo:** https://github.com/Mic-360/Next-js-Scalable | ⭐ 1
 
-### Twinverse-Space
-Early Demo Site with Deno and Fresh
-
-**Tech:** TypeScript | deno, fresh, preact  
-**Repo:** https://github.com/Mic-360/Twinverse-Space
-
 ### iot-predictive-maintainance-system
 A system designed to predict equipment failures using machine learning algorithms. Key features include real-time monitoring of IoT devices, anomaly detection, and maintenance scheduling. Integrates Node-RED for data flow, Next.js dashboard for visualization and analytics.
 
 **Tech:** TypeScript | docker, github-models, gpt-4o-mini  
 **Repo:** https://github.com/Mic-360/iot-predictive-maintainance-system
 
+### reactQuery-Todo
+This repository contains a sample todo application built using React and React Query. The application allows users to fetch and mutate todo items
+
+**Tech:** JavaScript | javascript, nodejs, react  
+**Repo:** https://github.com/Mic-360/reactQuery-Todo
+
+### Twinverse-Space
+Early Demo Site with Deno and Fresh 
+
+**Tech:** TypeScript | deno, fresh, preact  
+**Repo:** https://github.com/Mic-360/Twinverse-Space
+
 #### Mobile Applications
-
-### loginauth
-No description available
-
-**Tech:** Dart  
-**Repo:** https://github.com/Mic-360/loginauth | ⭐ 1
-
-### flutterfire
-No description available
-
-**Tech:** Dart  
-**Repo:** https://github.com/Mic-360/flutterfire | ⭐ 1
-
-### medipartner
-No description available
-
-**Tech:** Dart  
-**Repo:** https://github.com/Mic-360/medipartner | ⭐ 1
 
 ### fablabUI
 No description available
@@ -88,11 +75,41 @@ No description available
 **Tech:** Dart  
 **Repo:** https://github.com/Mic-360/fablabUI | ⭐ 1
 
+### flutterfire
+No description available
+
+**Tech:** Dart  
+**Repo:** https://github.com/Mic-360/flutterfire | ⭐ 1
+
+### loginauth
+No description available
+
+**Tech:** Dart  
+**Repo:** https://github.com/Mic-360/loginauth | ⭐ 1
+
+### medipartner
+No description available
+
+**Tech:** Dart  
+**Repo:** https://github.com/Mic-360/medipartner | ⭐ 1
+
 ### code4odisha-app
 No description available
 
 **Tech:** Dart  
 **Repo:** https://github.com/Mic-360/code4odisha-app
+
+### material3-expressive-flutter
+Agent skills for M3E flutter development.
+
+**Tech:** Dart  
+**Repo:** https://github.com/Mic-360/material3-expressive-flutter
+
+### spotify_looper
+Spotify Looper is an open-source Flutter app for creating precise loop points in Spotify tracks. It is built for musicians, learners, and anyone who wants repeatable control over song sections on Web and Android.
+
+**Tech:** Dart  
+**Repo:** https://github.com/Mic-360/spotify_looper
 
 #### Learning & Open Source
 
@@ -110,25 +127,19 @@ No description available
 **Tech:** Makefile  
 **Repo:** https://github.com/Mic-360/device_asus_X01BD | ⭐ 2
 
-### vendor_asus
-No description available
-
-**Tech:** Makefile  
-**Repo:** https://github.com/Mic-360/vendor_asus | ⭐ 1
-
 ### device_asus_sdm660-common
 No description available
 
 **Tech:** C++  
 **Repo:** https://github.com/Mic-360/device_asus_sdm660-common | ⭐ 1
 
-#### Other Projects
-
-### webpack-typescript
+### vendor_asus
 No description available
 
-**Tech:** JavaScript  
-**Repo:** https://github.com/Mic-360/webpack-typescript | ⭐ 1
+**Tech:** Makefile  
+**Repo:** https://github.com/Mic-360/vendor_asus | ⭐ 1
+
+#### Other Projects
 
 ### AndroidEmulator-sdk
 No description available
@@ -136,11 +147,53 @@ No description available
 **Tech:** Unknown  
 **Repo:** https://github.com/Mic-360/AndroidEmulator-sdk | ⭐ 1
 
+### webpack-typescript
+No description available
+
+**Tech:** JavaScript  
+**Repo:** https://github.com/Mic-360/webpack-typescript | ⭐ 1
+
+### ai-feedbacks
+AI Feedbacks is a web application designed to transform application issues and bugs into actionable prompts for coding agents. Powered by Google's Gemini 3 Flash Preview, it offers a seamless way to bridge the gap between reporting an issue and fixing it.
+
+**Tech:** TypeScript  
+**Repo:** https://github.com/Mic-360/ai-feedbacks
+
+### blog-site
+This is a blog site built with SvelteKit. Which covers the adventures of my developer journey. It is a place where I share my thoughts, ideas, and experiences.
+
+**Tech:** CSS  
+**Repo:** https://github.com/Mic-360/blog-site
+
+### deno-server
+A simple JSON Web Token based authentication server.
+
+**Tech:** TypeScript  
+**Repo:** https://github.com/Mic-360/deno-server
+
 ### gemtry-twinverse
 A JavaScript-based project by Mic-360 for interactive or visual experiences, featuring significant CSS styling. Designed for web applications, it leverages modern web technologies for dynamic user interfaces.
 
 **Tech:** JavaScript  
 **Repo:** https://github.com/Mic-360/gemtry-twinverse
+
+### hakai
+A high-performance rewrite of npkill, built with Rust for the filesystem engine and Bun for the interactive TUI.
+
+**Tech:** Rust  
+**Repo:** https://github.com/Mic-360/hakai
+
+### learn-react-hooks
+No description available
+
+**Tech:** TypeScript  
+**Repo:** https://github.com/Mic-360/learn-react-hooks
+
+### learn-rust
+This repository contains small projects to understand basic concepts of rust programming language.
+
+**Tech:** Unknown  
+**Repo:** https://github.com/Mic-360/learn-rust
 
 ### link-tree-bento
 This is a link tree project made using sveltekit and firebase to manage all my social media links and resources.
@@ -148,7 +201,68 @@ This is a link tree project made using sveltekit and firebase to manage all my s
 **Tech:** Svelte  
 **Repo:** https://github.com/Mic-360/link-tree-bento
 
+### lost-treasure
+No description available
 
+**Tech:** JavaScript  
+**Repo:** https://github.com/Mic-360/lost-treasure
+
+### mamoru-waf
+A lightweight, modular, Go-based Web Application Firewall (WAF) reverse proxy. Designed for hobby projects and small deployments — zero external infrastructure required.
+
+**Tech:** Go  
+**Repo:** https://github.com/Mic-360/mamoru-waf
+
+### MiniShinobi
+A self-hosted Vercel-like deployment platform running entirely on a rooted Android device.
+
+**Tech:** JavaScript  
+**Repo:** https://github.com/Mic-360/MiniShinobi
+
+### portfolio
+A minimalist, high-performance personal portfolio built with the bleeding edge TanStack Start (SSR) ecosystem. It features a typesafe routing system, MDX-powered content, and a sleek dark-first design.
+
+**Tech:** TypeScript  
+**Repo:** https://github.com/Mic-360/portfolio
+
+### realtime-tracking
+Realtime Tracking is a web app for sharing geolocation in real-time. It uses Node.js, Express, Socket.io, and Leaflet.js. Features include live location updates on an interactive map, automatic marker updates, and user disconnection handling. 
+
+**Tech:** JavaScript  
+**Repo:** https://github.com/Mic-360/realtime-tracking
+
+### tabineko
+TabiNeko is a premium, production-ready mouse gesture extension for Chrome (Manifest V3). Navigate your browser with fluid, intuitive gestures inspired by Japanese minimalist design.
+
+**Tech:** TypeScript  
+**Repo:** https://github.com/Mic-360/tabineko
+
+### tryon-dash
+No description available
+
+**Tech:** TypeScript  
+**Repo:** https://github.com/Mic-360/tryon-dash
+
+### tryon-modal
+No description available
+
+**Tech:** TypeScript  
+**Repo:** https://github.com/Mic-360/tryon-modal
+
+### Weather-Scope
+Unveiling the Skies with Augmented Reality
+
+**Tech:** Unknown  
+**Repo:** https://github.com/Mic-360/Weather-Scope
+
+### winmole
+WiMo is an all-in-one system maintenance CLI toolkit for Windows. Think CleanMyMac + AppCleaner + DaisyDisk + iStat Menus — but for Windows, free, and open source.
+
+**Tech:** PowerShell  
+**Repo:** https://github.com/Mic-360/winmole
+
+
+<!-- Languages and Tools Section -->
 <h2 align="center">🫤 Languages and Tools</h2>
 
 <br/>
