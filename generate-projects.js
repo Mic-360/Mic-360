@@ -3,130 +3,193 @@ const fs = require('fs');
 const GITHUB_USERNAME = 'Mic-360';
 const PROFILE_REPO = `${GITHUB_USERNAME}/${GITHUB_USERNAME}`;
 
-function categorizeProject(repo) {
-  const name = repo.name.toLowerCase();
-  const description = (repo.description || '').toLowerCase();
-  const topics = repo.topics || [];
+// ─── Language → Devicon color mapping for shields.io badges ───
+const LANG_COLORS = {
+  JavaScript: 'F7DF1E',
+  TypeScript: '3178C6',
+  Dart: '0175C2',
+  Python: '3776AB',
+  Rust: 'DEA584',
+  Go: '00ADD8',
+  'C++': '00599C',
+  Java: 'ED8B00',
+  HTML: 'E34F26',
+  CSS: '1572B6',
+  Svelte: 'FF3E00',
+  PowerShell: '5391FE',
+  Makefile: '427819',
+  Shell: '89E051',
+  Ruby: 'CC342D',
+  Kotlin: '7F52FF',
+  Swift: 'F05138',
+  C: 'A8B9CC',
+};
 
-  if (topics.includes('browser-extension') || topics.includes('vscode-extension') || name.includes('extension') || name.includes('auto-copilot')) {
-    return 'Developer Tools';
+const LANG_LOGOS = {
+  JavaScript: 'javascript',
+  TypeScript: 'typescript',
+  Dart: 'dart',
+  Python: 'python',
+  Rust: 'rust',
+  Go: 'go',
+  'C++': 'cplusplus',
+  Java: 'openjdk',
+  HTML: 'html5',
+  CSS: 'css3',
+  Svelte: 'svelte',
+  PowerShell: 'powershell',
+  Makefile: 'cmake',
+  Shell: 'gnubash',
+  Ruby: 'ruby',
+  Kotlin: 'kotlin',
+  Swift: 'swift',
+  C: 'c',
+};
+
+
+
+/**
+ * Create a shields.io badge URL
+ */
+function badge(label, message, color, logo = '') {
+  // Shields.io uses single hyphen as separator; literal hyphens must be doubled
+  const escape = (s) => encodeURIComponent(s).replace(/-/g, '--');
+  const encodedLabel = escape(label);
+  const encodedMsg = escape(String(message));
+  let url = `https://img.shields.io/badge/${encodedLabel}-${encodedMsg}-${color}?style=flat-square`;
+  if (logo) {
+    url += `&logo=${logo}&logoColor=white`;
   }
-
-  if (name.includes('device_') || name.includes('vendor_') || topics.includes('android')) {
-    return 'Android Development';
-  }
-
-  if (topics.includes('nextjs') || topics.includes('react') || topics.includes('svelte') ||
-      topics.includes('typescript') || topics.includes('template') || name.includes('scalable')) {
-    return 'Web Applications';
-  }
-
-  if (topics.includes('flutter') || topics.includes('dart') || repo.language === 'Dart') {
-    return 'Mobile Applications';
-  }
-
-  if (topics.includes('iot') || topics.includes('machine-learning') || topics.includes('ai') || name.includes('predictive')) {
-    return 'IoT & AI Projects';
-  }
-
-  if (topics.includes('hacktoberfest') || topics.includes('bootcamp') || name.includes('bootcamp')) {
-    return 'Learning & Open Source';
-  }
-
-  return 'Other Projects';
+  return url;
 }
 
-function generateProjectMarkdown(repo) {
+const COLUMNS = 2;
+
+/**
+ * Generate a single project card as a <td> cell
+ */
+function generateProjectCell(repo) {
   const name = repo.name;
-  const description = repo.description || 'No description available';
+  const description = repo.description || '_No description provided._';
   const url = repo.html_url;
   const language = repo.language || 'Unknown';
   const stars = repo.stargazers_count;
+  const forks = repo.forks_count;
   const topics = repo.topics || [];
 
-  let markdown = `### ${name}\n`;
-  markdown += `${description}\n\n`;
-  markdown += `**Tech:** ${language}`;
+  const homepage = repo.homepage || '';
+  const license = repo.license ? repo.license.spdx_id : '';
 
-  if (topics.length > 0) {
-    markdown += ` | ${topics.slice(0, 3).join(', ')}`;
-  }
+  const langColor = LANG_COLORS[language] || '555555';
+  const langLogo = LANG_LOGOS[language] || '';
 
-  markdown += `  \n`;
-  markdown += `**Repo:** ${url}`;
+  let md = '';
 
+  md += `<td width="${Math.floor(100 / COLUMNS)}%" valign="top">\n\n`;
+
+  // Project name as a linked heading
+  md += `### [${name}](${url})\n\n`;
+  md += `${description}\n\n`;
+
+  // Badges row
+  const badges = [];
+  badges.push(`![${language}](${badge('', language, langColor, langLogo)})`);
   if (stars > 0) {
-    markdown += ` | ⭐ ${stars}`;
+    badges.push(`![Stars](${badge('⭐', stars, '000', '')})`);
+  }
+  if (forks > 0) {
+    badges.push(`![Forks](${badge('🔱', forks, '000', '')})`);
+  }
+  if (license && license !== 'NOASSERTION') {
+    badges.push(`![License](${badge('📜', license, '000', '')})`);
   }
 
-  return markdown;
+
+  md += badges.join(' ') + '\n\n';
+
+  // Topic tags
+  if (topics.length > 0) {
+    md += topics.slice(0, 5).map(t => `\`${t}\``).join(' ') + '\n\n';
+  }
+
+  // Action links
+  const links = [`[📂 Source](${url})`];
+  if (homepage) {
+    links.push(`[🌐 Demo](${homepage})`);
+  }
+  md += links.join(' · ') + '\n\n';
+
+  md += `</td>\n`;
+
+  return md;
 }
 
+/**
+ * Generate the full projects section, sorted by creation date (newest first)
+ */
 function generateProjectsSection(repos) {
   console.log('Processing repositories...');
 
+  // Filter out forks, private repos, and the profile repo itself
   const filteredRepos = repos.filter(repo =>
     !repo.fork &&
     repo.full_name !== PROFILE_REPO &&
     !repo.private
   );
 
-  filteredRepos.sort((a, b) => b.stargazers_count - a.stargazers_count);
+  // Sort by created_at descending (newest first)
+  filteredRepos.sort((a, b) => new Date(b.created_at) - new Date(a.created_at));
 
-  const categorized = {};
-  filteredRepos.forEach(repo => {
-    const category = categorizeProject(repo);
-    if (!categorized[category]) {
-      categorized[category] = [];
+  console.log(`Found ${filteredRepos.length} public, non-fork repositories.`);
+
+  // Build the markdown
+  let md = '';
+
+  md += `## 🚀 Projects\n\n`;
+  md += `> Sorted by creation date — newest first.\n\n`;
+
+  md += `<table>\n`;
+
+  for (let i = 0; i < filteredRepos.length; i += COLUMNS) {
+    md += `<tr>\n`;
+    for (let j = 0; j < COLUMNS; j++) {
+      if (i + j < filteredRepos.length) {
+        md += generateProjectCell(filteredRepos[i + j]);
+      } else {
+        // Empty cell to keep the grid aligned
+        md += `<td width="${Math.floor(100 / COLUMNS)}%"></td>\n`;
+      }
     }
-    categorized[category].push(repo);
-  });
+    md += `</tr>\n`;
+  }
 
-  const categoryOrder = [
-    'Developer Tools',
-    'Web Applications',
-    'Mobile Applications',
-    'IoT & AI Projects',
-    'Learning & Open Source',
-    'Android Development',
-    'Other Projects'
-  ];
+  md += `</table>\n\n`;
 
-  let markdown = '## 🚀 Projects\n\n';
-
-  categoryOrder.forEach(category => {
-    if (categorized[category] && categorized[category].length > 0) {
-      markdown += `#### ${category}\n\n`;
-      categorized[category].forEach(repo => {
-        markdown += generateProjectMarkdown(repo) + '\n\n';
-      });
-    }
-  });
-
-  return markdown;
+  return md;
 }
 
+/**
+ * Replace the projects section in README.md
+ */
 function updateReadme(reposData) {
   try {
     const projectsSection = generateProjectsSection(reposData);
 
     let readme = fs.readFileSync('README.md', 'utf8');
 
-    // First, remove any existing Projects section
-    const projectsMarker = /## 🚀 Projects[\s\S]*?(?=<h2|$)/;
+    // Remove any existing Projects section
+    const projectsMarker = /## 🚀 Projects[\s\S]*?(?=<!-- Languages and Tools Section -->|$)/;
     readme = readme.replace(projectsMarker, '');
 
-    // Then insert before Languages and Tools section using a stable marker
+    // Insert before Languages and Tools section
     let insertPosition = readme.indexOf('<!-- Languages and Tools Section -->');
     if (insertPosition === -1) {
-      // Fallback for older READMEs that still use the explicit <h2> heading
       insertPosition = readme.indexOf('<h2 align="center">🫤 Languages and Tools</h2>');
     }
 
     if (insertPosition !== -1) {
       readme = readme.slice(0, insertPosition) + projectsSection + '\n' + readme.slice(insertPosition);
     } else {
-      // If no marker or heading is found, append the Projects section at the end
       readme += '\n\n' + projectsSection;
     }
 

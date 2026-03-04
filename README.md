@@ -27,239 +27,464 @@
 
 ## 🚀 Projects
 
-#### Developer Tools
+> Sorted by creation date — newest first.
 
-### auto-copilot-review
-Auto Copilot Review seamlessly integrates GitHub Copilot Chat into your Git workflow. Every time you stage files, the extension automatically triggers Copilot to review your changes within seconds. Perfect for catching bugs early and maintaining code quality without breaking your development flow.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Tech:** TypeScript  
-**Repo:** https://github.com/Mic-360/auto-copilot-review
+### [MiniShinobi](https://github.com/Mic-360/MiniShinobi)
 
-#### Web Applications
-
-### link-shorterner-hacktoberfest
-HacktoberFest: Link Shortener with Next js and Vercel Edge Functions using PlanetScaleDB, TypeScript and Prisma
-
-**Tech:** TypeScript | hacktoberfest, hacktoberfest-accepted, hacktoberfest2022  
-**Repo:** https://github.com/Mic-360/link-shorterner-hacktoberfest | ⭐ 10
-
-### Next-js-Scalable
-A fully scalable template for industrial and professional use.
-
-**Tech:** TypeScript  
-**Repo:** https://github.com/Mic-360/Next-js-Scalable | ⭐ 1
-
-### iot-predictive-maintainance-system
-A system designed to predict equipment failures using machine learning algorithms. Key features include real-time monitoring of IoT devices, anomaly detection, and maintenance scheduling. Integrates Node-RED for data flow, Next.js dashboard for visualization and analytics.
-
-**Tech:** TypeScript | docker, github-models, gpt-4o-mini  
-**Repo:** https://github.com/Mic-360/iot-predictive-maintainance-system
-
-### reactQuery-Todo
-This repository contains a sample todo application built using React and React Query. The application allows users to fetch and mutate todo items
-
-**Tech:** JavaScript | javascript, nodejs, react  
-**Repo:** https://github.com/Mic-360/reactQuery-Todo
-
-### Twinverse-Space
-Early Demo Site with Deno and Fresh 
-
-**Tech:** TypeScript | deno, fresh, preact  
-**Repo:** https://github.com/Mic-360/Twinverse-Space
-
-#### Mobile Applications
-
-### fablabUI
-No description available
-
-**Tech:** Dart  
-**Repo:** https://github.com/Mic-360/fablabUI | ⭐ 1
-
-### flutterfire
-No description available
-
-**Tech:** Dart  
-**Repo:** https://github.com/Mic-360/flutterfire | ⭐ 1
-
-### loginauth
-No description available
-
-**Tech:** Dart  
-**Repo:** https://github.com/Mic-360/loginauth | ⭐ 1
-
-### medipartner
-No description available
-
-**Tech:** Dart  
-**Repo:** https://github.com/Mic-360/medipartner | ⭐ 1
-
-### code4odisha-app
-No description available
-
-**Tech:** Dart  
-**Repo:** https://github.com/Mic-360/code4odisha-app
-
-### material3-expressive-flutter
-Agent skills for M3E flutter development.
-
-**Tech:** Dart  
-**Repo:** https://github.com/Mic-360/material3-expressive-flutter
-
-### spotify_looper
-Spotify Looper is an open-source Flutter app for creating precise loop points in Spotify tracks. It is built for musicians, learners, and anyone who wants repeatable control over song sections on Web and Android.
-
-**Tech:** Dart  
-**Repo:** https://github.com/Mic-360/spotify_looper
-
-#### Learning & Open Source
-
-### Web_Dev_Bootcamp
-No description available
-
-**Tech:** HTML  
-**Repo:** https://github.com/Mic-360/Web_Dev_Bootcamp | ⭐ 2
-
-#### Android Development
-
-### device_asus_X01BD
-No description available
-
-**Tech:** Makefile  
-**Repo:** https://github.com/Mic-360/device_asus_X01BD | ⭐ 2
-
-### device_asus_sdm660-common
-No description available
-
-**Tech:** C++  
-**Repo:** https://github.com/Mic-360/device_asus_sdm660-common | ⭐ 1
-
-### vendor_asus
-No description available
-
-**Tech:** Makefile  
-**Repo:** https://github.com/Mic-360/vendor_asus | ⭐ 1
-
-#### Other Projects
-
-### AndroidEmulator-sdk
-No description available
-
-**Tech:** Unknown  
-**Repo:** https://github.com/Mic-360/AndroidEmulator-sdk | ⭐ 1
-
-### webpack-typescript
-No description available
-
-**Tech:** JavaScript  
-**Repo:** https://github.com/Mic-360/webpack-typescript | ⭐ 1
-
-### ai-feedbacks
-AI Feedbacks is a web application designed to transform application issues and bugs into actionable prompts for coding agents. Powered by Google's Gemini 3 Flash Preview, it offers a seamless way to bridge the gap between reporting an issue and fixing it.
-
-**Tech:** TypeScript  
-**Repo:** https://github.com/Mic-360/ai-feedbacks
-
-### blog-site
-This is a blog site built with SvelteKit. Which covers the adventures of my developer journey. It is a place where I share my thoughts, ideas, and experiences.
-
-**Tech:** CSS  
-**Repo:** https://github.com/Mic-360/blog-site
-
-### deno-server
-A simple JSON Web Token based authentication server.
-
-**Tech:** TypeScript  
-**Repo:** https://github.com/Mic-360/deno-server
-
-### gemtry-twinverse
-A JavaScript-based project by Mic-360 for interactive or visual experiences, featuring significant CSS styling. Designed for web applications, it leverages modern web technologies for dynamic user interfaces.
-
-**Tech:** JavaScript  
-**Repo:** https://github.com/Mic-360/gemtry-twinverse
-
-### hakai
-A high-performance rewrite of npkill, built with Rust for the filesystem engine and Bun for the interactive TUI.
-
-**Tech:** Rust  
-**Repo:** https://github.com/Mic-360/hakai
-
-### learn-react-hooks
-No description available
-
-**Tech:** TypeScript  
-**Repo:** https://github.com/Mic-360/learn-react-hooks
-
-### learn-rust
-This repository contains small projects to understand basic concepts of rust programming language.
-
-**Tech:** Unknown  
-**Repo:** https://github.com/Mic-360/learn-rust
-
-### link-tree-bento
-This is a link tree project made using sveltekit and firebase to manage all my social media links and resources.
-
-**Tech:** Svelte  
-**Repo:** https://github.com/Mic-360/link-tree-bento
-
-### lost-treasure
-No description available
-
-**Tech:** JavaScript  
-**Repo:** https://github.com/Mic-360/lost-treasure
-
-### mamoru-waf
-A lightweight, modular, Go-based Web Application Firewall (WAF) reverse proxy. Designed for hobby projects and small deployments — zero external infrastructure required.
-
-**Tech:** Go  
-**Repo:** https://github.com/Mic-360/mamoru-waf
-
-### MiniShinobi
 A self-hosted Vercel-like deployment platform running entirely on a rooted Android device.
 
-**Tech:** JavaScript  
-**Repo:** https://github.com/Mic-360/MiniShinobi
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![License](https://img.shields.io/badge/%F0%9F%93%9C-MIT-000?style=flat-square)
 
-### portfolio
-A minimalist, high-performance personal portfolio built with the bleeding edge TanStack Start (SSR) ecosystem. It features a typesafe routing system, MDX-powered content, and a sleek dark-first design.
+[📂 Source](https://github.com/Mic-360/MiniShinobi) · [🌐 Demo](https://dashboard.bhaumicsingh.tech/)
 
-**Tech:** TypeScript  
-**Repo:** https://github.com/Mic-360/portfolio
+</td>
+<td width="50%" valign="top">
 
-### realtime-tracking
-Realtime Tracking is a web app for sharing geolocation in real-time. It uses Node.js, Express, Socket.io, and Leaflet.js. Features include live location updates on an interactive map, automatic marker updates, and user disconnection handling. 
+### [winmole](https://github.com/Mic-360/winmole)
 
-**Tech:** JavaScript  
-**Repo:** https://github.com/Mic-360/realtime-tracking
-
-### tabineko
-TabiNeko is a premium, production-ready mouse gesture extension for Chrome (Manifest V3). Navigate your browser with fluid, intuitive gestures inspired by Japanese minimalist design.
-
-**Tech:** TypeScript  
-**Repo:** https://github.com/Mic-360/tabineko
-
-### tryon-dash
-No description available
-
-**Tech:** TypeScript  
-**Repo:** https://github.com/Mic-360/tryon-dash
-
-### tryon-modal
-No description available
-
-**Tech:** TypeScript  
-**Repo:** https://github.com/Mic-360/tryon-modal
-
-### Weather-Scope
-Unveiling the Skies with Augmented Reality
-
-**Tech:** Unknown  
-**Repo:** https://github.com/Mic-360/Weather-Scope
-
-### winmole
 WiMo is an all-in-one system maintenance CLI toolkit for Windows. Think CleanMyMac + AppCleaner + DaisyDisk + iStat Menus — but for Windows, free, and open source.
 
-**Tech:** PowerShell  
-**Repo:** https://github.com/Mic-360/winmole
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white) ![License](https://img.shields.io/badge/%F0%9F%93%9C-MIT-000?style=flat-square)
+
+[📂 Source](https://github.com/Mic-360/winmole)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [hakai](https://github.com/Mic-360/hakai)
+
+A high-performance rewrite of npkill, built with Rust for the filesystem engine and Bun for the interactive TUI.
+
+![Rust](https://img.shields.io/badge/-Rust-DEA584?style=flat-square&logo=rust&logoColor=white) ![License](https://img.shields.io/badge/%F0%9F%93%9C-MIT-000?style=flat-square)
+
+[📂 Source](https://github.com/Mic-360/hakai)
+
+</td>
+<td width="50%" valign="top">
+
+### [tabineko](https://github.com/Mic-360/tabineko)
+
+TabiNeko is a premium, production-ready mouse gesture extension for Chrome (Manifest V3). Navigate your browser with fluid, intuitive gestures inspired by Japanese minimalist design.
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![License](https://img.shields.io/badge/%F0%9F%93%9C-MIT-000?style=flat-square)
+
+[📂 Source](https://github.com/Mic-360/tabineko)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [mamoru-waf](https://github.com/Mic-360/mamoru-waf)
+
+A lightweight, modular, Go-based Web Application Firewall (WAF) reverse proxy. Designed for hobby projects and small deployments — zero external infrastructure required.
+
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![License](https://img.shields.io/badge/%F0%9F%93%9C-MIT-000?style=flat-square)
+
+[📂 Source](https://github.com/Mic-360/mamoru-waf)
+
+</td>
+<td width="50%" valign="top">
+
+### [ai-feedbacks](https://github.com/Mic-360/ai-feedbacks)
+
+AI Feedbacks is a web application designed to transform application issues and bugs into actionable prompts for coding agents. Powered by Google's Gemini 3 Flash Preview, it offers a seamless way to bridge the gap between reporting an issue and fixing it.
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![License](https://img.shields.io/badge/%F0%9F%93%9C-Apache--2.0-000?style=flat-square)
+
+[📂 Source](https://github.com/Mic-360/ai-feedbacks)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [portfolio](https://github.com/Mic-360/portfolio)
+
+A minimalist, high-performance personal portfolio built with the bleeding edge TanStack Start (SSR) ecosystem. It features a typesafe routing system, MDX-powered content, and a sleek dark-first design.
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![License](https://img.shields.io/badge/%F0%9F%93%9C-MIT-000?style=flat-square)
+
+[📂 Source](https://github.com/Mic-360/portfolio) · [🌐 Demo](https://vcr-changes-task-polls.trycloudflare.com/)
+
+</td>
+<td width="50%" valign="top">
+
+### [material3-expressive-flutter](https://github.com/Mic-360/material3-expressive-flutter)
+
+Agent skills for M3E flutter development.
+
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![License](https://img.shields.io/badge/%F0%9F%93%9C-MIT-000?style=flat-square)
+
+[📂 Source](https://github.com/Mic-360/material3-expressive-flutter)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [spotify_looper](https://github.com/Mic-360/spotify_looper)
+
+Spotify Looper is an open-source Flutter app for creating precise loop points in Spotify tracks. It is built for musicians, learners, and anyone who wants repeatable control over song sections on Web and Android.
+
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![License](https://img.shields.io/badge/%F0%9F%93%9C-MIT-000?style=flat-square)
+
+[📂 Source](https://github.com/Mic-360/spotify_looper) · [🌐 Demo](https://spotify-looper-cc1ad.web.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### [auto-copilot-review](https://github.com/Mic-360/auto-copilot-review)
+
+Auto Copilot Review seamlessly integrates GitHub Copilot Chat into your Git workflow. Every time you stage files, the extension automatically triggers Copilot to review your changes within seconds. Perfect for catching bugs early and maintaining code quality without breaking your development flow.
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![License](https://img.shields.io/badge/%F0%9F%93%9C-MIT-000?style=flat-square)
+
+[📂 Source](https://github.com/Mic-360/auto-copilot-review)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [gemtry-twinverse](https://github.com/Mic-360/gemtry-twinverse)
+
+A JavaScript-based project by Mic-360 for interactive or visual experiences, featuring significant CSS styling. Designed for web applications, it leverages modern web technologies for dynamic user interfaces.
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+
+[📂 Source](https://github.com/Mic-360/gemtry-twinverse) · [🌐 Demo](https://twinverse.in/gemtry)
+
+</td>
+<td width="50%" valign="top">
+
+### [learn-rust](https://github.com/Mic-360/learn-rust)
+
+This repository contains small projects to understand basic concepts of rust programming language.
+
+![Unknown](https://img.shields.io/badge/-Unknown-555555?style=flat-square)
+
+[📂 Source](https://github.com/Mic-360/learn-rust)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [tryon-modal](https://github.com/Mic-360/tryon-modal)
+
+_No description provided._
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+[📂 Source](https://github.com/Mic-360/tryon-modal) · [🌐 Demo](https://twintry-modal.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### [lost-treasure](https://github.com/Mic-360/lost-treasure)
+
+_No description provided._
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+
+[📂 Source](https://github.com/Mic-360/lost-treasure)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [tryon-dash](https://github.com/Mic-360/tryon-dash)
+
+_No description provided._
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Forks](https://img.shields.io/badge/%F0%9F%94%B1-2-000?style=flat-square)
+
+[📂 Source](https://github.com/Mic-360/tryon-dash) · [🌐 Demo](https://tryon-dash.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### [iot-predictive-maintainance-system](https://github.com/Mic-360/iot-predictive-maintainance-system)
+
+A system designed to predict equipment failures using machine learning algorithms. Key features include real-time monitoring of IoT devices, anomaly detection, and maintenance scheduling. Integrates Node-RED for data flow, Next.js dashboard for visualization and analytics.
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![License](https://img.shields.io/badge/%F0%9F%93%9C-MIT-000?style=flat-square)
+
+`docker` `github-models` `gpt-4o-mini` `mqtt-broker` `nextjs`
+
+[📂 Source](https://github.com/Mic-360/iot-predictive-maintainance-system)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [realtime-tracking](https://github.com/Mic-360/realtime-tracking)
+
+Realtime Tracking is a web app for sharing geolocation in real-time. It uses Node.js, Express, Socket.io, and Leaflet.js. Features include live location updates on an interactive map, automatic marker updates, and user disconnection handling. 
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+
+[📂 Source](https://github.com/Mic-360/realtime-tracking)
+
+</td>
+<td width="50%" valign="top">
+
+### [link-tree-bento](https://github.com/Mic-360/link-tree-bento)
+
+This is a link tree project made using sveltekit and firebase to manage all my social media links and resources.
+
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+
+[📂 Source](https://github.com/Mic-360/link-tree-bento)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [blog-site](https://github.com/Mic-360/blog-site)
+
+This is a blog site built with SvelteKit. Which covers the adventures of my developer journey. It is a place where I share my thoughts, ideas, and experiences.
+
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![License](https://img.shields.io/badge/%F0%9F%93%9C-MIT-000?style=flat-square)
+
+[📂 Source](https://github.com/Mic-360/blog-site) · [🌐 Demo](https://blog-bhaumics-projects.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### [Weather-Scope](https://github.com/Mic-360/Weather-Scope)
+
+Unveiling the Skies with Augmented Reality
+
+![Unknown](https://img.shields.io/badge/-Unknown-555555?style=flat-square)
+
+[📂 Source](https://github.com/Mic-360/Weather-Scope)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [deno-server](https://github.com/Mic-360/deno-server)
+
+A simple JSON Web Token based authentication server.
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+[📂 Source](https://github.com/Mic-360/deno-server)
+
+</td>
+<td width="50%" valign="top">
+
+### [Twinverse-Space](https://github.com/Mic-360/Twinverse-Space)
+
+Early Demo Site with Deno and Fresh 
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+`deno` `fresh` `preact` `tailwindcss` `twind`
+
+[📂 Source](https://github.com/Mic-360/Twinverse-Space) · [🌐 Demo](https://twinverse-space.deno.dev)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [reactQuery-Todo](https://github.com/Mic-360/reactQuery-Todo)
+
+This repository contains a sample todo application built using React and React Query. The application allows users to fetch and mutate todo items
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+
+`javascript` `nodejs` `react` `react-query` `vite`
+
+[📂 Source](https://github.com/Mic-360/reactQuery-Todo)
+
+</td>
+<td width="50%" valign="top">
+
+### [learn-react-hooks](https://github.com/Mic-360/learn-react-hooks)
+
+_No description provided._
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+[📂 Source](https://github.com/Mic-360/learn-react-hooks)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [link-shorterner-hacktoberfest](https://github.com/Mic-360/link-shorterner-hacktoberfest)
+
+HacktoberFest: Link Shortener with Next js and Vercel Edge Functions using PlanetScaleDB, TypeScript and Prisma
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Stars](https://img.shields.io/badge/%E2%AD%90-10-000?style=flat-square) ![Forks](https://img.shields.io/badge/%F0%9F%94%B1-1-000?style=flat-square)
+
+`hacktoberfest` `hacktoberfest-accepted` `hacktoberfest2022` `next` `planetscale`
+
+[📂 Source](https://github.com/Mic-360/link-shorterner-hacktoberfest)
+
+</td>
+<td width="50%" valign="top">
+
+### [Next-js-Scalable](https://github.com/Mic-360/Next-js-Scalable)
+
+A fully scalable template for industrial and professional use.
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Stars](https://img.shields.io/badge/%E2%AD%90-1-000?style=flat-square) ![License](https://img.shields.io/badge/%F0%9F%93%9C-Unlicense-000?style=flat-square)
+
+[📂 Source](https://github.com/Mic-360/Next-js-Scalable) · [🌐 Demo](next-js-scalable.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [code4odisha-app](https://github.com/Mic-360/code4odisha-app)
+
+_No description provided._
+
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+[📂 Source](https://github.com/Mic-360/code4odisha-app)
+
+</td>
+<td width="50%" valign="top">
+
+### [loginauth](https://github.com/Mic-360/loginauth)
+
+_No description provided._
+
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Stars](https://img.shields.io/badge/%E2%AD%90-1-000?style=flat-square)
+
+[📂 Source](https://github.com/Mic-360/loginauth)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [AndroidEmulator-sdk](https://github.com/Mic-360/AndroidEmulator-sdk)
+
+_No description provided._
+
+![Unknown](https://img.shields.io/badge/-Unknown-555555?style=flat-square) ![Stars](https://img.shields.io/badge/%E2%AD%90-1-000?style=flat-square)
+
+[📂 Source](https://github.com/Mic-360/AndroidEmulator-sdk)
+
+</td>
+<td width="50%" valign="top">
+
+### [webpack-typescript](https://github.com/Mic-360/webpack-typescript)
+
+_No description provided._
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![Stars](https://img.shields.io/badge/%E2%AD%90-1-000?style=flat-square)
+
+[📂 Source](https://github.com/Mic-360/webpack-typescript)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [flutterfire](https://github.com/Mic-360/flutterfire)
+
+_No description provided._
+
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Stars](https://img.shields.io/badge/%E2%AD%90-1-000?style=flat-square)
+
+[📂 Source](https://github.com/Mic-360/flutterfire)
+
+</td>
+<td width="50%" valign="top">
+
+### [fablabUI](https://github.com/Mic-360/fablabUI)
+
+_No description provided._
+
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Stars](https://img.shields.io/badge/%E2%AD%90-1-000?style=flat-square)
+
+[📂 Source](https://github.com/Mic-360/fablabUI)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [medipartner](https://github.com/Mic-360/medipartner)
+
+_No description provided._
+
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Stars](https://img.shields.io/badge/%E2%AD%90-1-000?style=flat-square)
+
+[📂 Source](https://github.com/Mic-360/medipartner)
+
+</td>
+<td width="50%" valign="top">
+
+### [Web_Dev_Bootcamp](https://github.com/Mic-360/Web_Dev_Bootcamp)
+
+_No description provided._
+
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![Stars](https://img.shields.io/badge/%E2%AD%90-2-000?style=flat-square)
+
+[📂 Source](https://github.com/Mic-360/Web_Dev_Bootcamp)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [vendor_asus](https://github.com/Mic-360/vendor_asus)
+
+_No description provided._
+
+![Makefile](https://img.shields.io/badge/-Makefile-427819?style=flat-square&logo=cmake&logoColor=white) ![Stars](https://img.shields.io/badge/%E2%AD%90-1-000?style=flat-square)
+
+[📂 Source](https://github.com/Mic-360/vendor_asus)
+
+</td>
+<td width="50%" valign="top">
+
+### [device_asus_sdm660-common](https://github.com/Mic-360/device_asus_sdm660-common)
+
+_No description provided._
+
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Stars](https://img.shields.io/badge/%E2%AD%90-1-000?style=flat-square)
+
+[📂 Source](https://github.com/Mic-360/device_asus_sdm660-common)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [device_asus_X01BD](https://github.com/Mic-360/device_asus_X01BD)
+
+_No description provided._
+
+![Makefile](https://img.shields.io/badge/-Makefile-427819?style=flat-square&logo=cmake&logoColor=white) ![Stars](https://img.shields.io/badge/%E2%AD%90-2-000?style=flat-square)
+
+[📂 Source](https://github.com/Mic-360/device_asus_X01BD)
+
+</td>
+<td width="50%"></td>
+</tr>
+</table>
 
 
 <!-- Languages and Tools Section -->
