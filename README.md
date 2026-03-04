@@ -231,7 +231,7 @@ A system designed to predict equipment failures using machine learning algorithm
 
 ### [realtime-tracking](https://github.com/Mic-360/realtime-tracking)
 
-Realtime Tracking is a web app for sharing geolocation in real-time. It uses Node.js, Express, Socket.io, and Leaflet.js. Features include live location updates on an interactive map, automatic marker updates, and user disconnection handling.
+Realtime Tracking is a web app for sharing geolocation in real-time. It uses Node.js, Express, Socket.io, and Leaflet.js. Features include live location updates on an interactive map, automatic marker updates, and user disconnection handling. 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 
@@ -279,7 +279,7 @@ A simple JSON Web Token based authentication server.
 
 ### [Twinverse-Space](https://github.com/Mic-360/Twinverse-Space)
 
-Early Demo Site with Deno and Fresh
+Early Demo Site with Deno and Fresh 
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
@@ -476,6 +476,7 @@ Device Tree for ASUS ZenFone Max Pro (M2) ZB630/1KL The ASUS ZenFone Max Pro (M2
 <td width="50%"></td>
 </tr>
 </table>
+
 
 <!-- Languages and Tools Section -->
 <h2 align="center">🫤 Languages and Tools</h2>
