@@ -356,17 +356,6 @@ _No description provided._
 <tr>
 <td width="50%" valign="top">
 
-### [AndroidEmulator-sdk](https://github.com/Mic-360/AndroidEmulator-sdk)
-
-_No description provided._
-
-![Unknown](https://img.shields.io/badge/-Unknown-555555?style=flat-square) ![Stars](https://img.shields.io/badge/%E2%AD%90-1-000?style=flat-square)
-
-[📂 Source](https://github.com/Mic-360/AndroidEmulator-sdk)
-
-</td>
-<td width="50%" valign="top">
-
 ### [webpack-typescript](https://github.com/Mic-360/webpack-typescript)
 
 _No description provided._
@@ -376,19 +365,19 @@ _No description provided._
 [📂 Source](https://github.com/Mic-360/webpack-typescript)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [flutterfire](https://github.com/Mic-360/flutterfire)
 
-_No description provided._
+Flutter Login Page Boilerplate for Android.
 
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Stars](https://img.shields.io/badge/%E2%AD%90-1-000?style=flat-square)
 
 [📂 Source](https://github.com/Mic-360/flutterfire)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [fablabUI](https://github.com/Mic-360/fablabUI)
@@ -400,8 +389,6 @@ _No description provided._
 [📂 Source](https://github.com/Mic-360/fablabUI)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [medipartner](https://github.com/Mic-360/medipartner)
@@ -413,6 +400,8 @@ _No description provided._
 [📂 Source](https://github.com/Mic-360/medipartner)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Web_Dev_Bootcamp](https://github.com/Mic-360/Web_Dev_Bootcamp)
@@ -424,8 +413,6 @@ _No description provided._
 [📂 Source](https://github.com/Mic-360/Web_Dev_Bootcamp)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [vendor_asus](https://github.com/Mic-360/vendor_asus)
@@ -437,6 +424,8 @@ _No description provided._
 [📂 Source](https://github.com/Mic-360/vendor_asus)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [device_asus_sdm660-common](https://github.com/Mic-360/device_asus_sdm660-common)
@@ -448,8 +437,6 @@ Common device tree for SDM660 based ASUS devices
 [📂 Source](https://github.com/Mic-360/device_asus_sdm660-common)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [device_asus_X01BD](https://github.com/Mic-360/device_asus_X01BD)
@@ -461,7 +448,6 @@ Device Tree for ASUS ZenFone Max Pro (M2) ZB630/1KL The ASUS ZenFone Max Pro (M2
 [📂 Source](https://github.com/Mic-360/device_asus_X01BD)
 
 </td>
-<td width="50%"></td>
 </tr>
 </table>
 
