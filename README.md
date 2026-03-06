@@ -371,7 +371,7 @@ _No description provided._
 
 Flutter Login Page Boilerplate for Android.
 
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![Stars](https://img.shields.io/badge/%E2%AD%90-1-000?style=flat-square)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Stars](https://img.shields.io/badge/%E2%AD%90-1-000?style=flat-square)
 
 [📂 Source](https://github.com/Mic-360/flutterfire)
 
