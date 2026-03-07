@@ -138,7 +138,7 @@ Spotify Looper is an open-source Flutter app for creating precise loop points in
 
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) ![License](https://img.shields.io/badge/%F0%9F%93%9C-MIT-000?style=flat-square)
 
-[📂 Source](https://github.com/Mic-360/spotify_looper) · [🌐 Demo](https://spotify-looper-cc1ad.web.app/)
+[📂 Source](https://github.com/Mic-360/spotify_looper) · [🌐 Demo](https://spotify.bhaumicsingh.tech/)
 
 </td>
 <td width="50%" valign="top">
