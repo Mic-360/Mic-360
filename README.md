@@ -36,6 +36,17 @@
 <tr>
 <td width="50%" valign="top">
 
+### [crawler](https://github.com/Mic-360/crawler)
+
+_No description provided._
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+[📂 Source](https://github.com/Mic-360/crawler)
+
+</td>
+<td width="50%" valign="top">
+
 ### [MiniShinobi](https://github.com/Mic-360/MiniShinobi)
 
 A self-hosted Vercel-like deployment platform running entirely on a rooted Android device.
@@ -45,6 +56,8 @@ A self-hosted Vercel-like deployment platform running entirely on a rooted Andro
 [📂 Source](https://github.com/Mic-360/MiniShinobi) · [🌐 Demo](https://dashboard.bhaumicsingh.tech/)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [winmole](https://github.com/Mic-360/winmole)
@@ -56,8 +69,6 @@ WiMo is an all-in-one system maintenance CLI toolkit for Windows. Think CleanMyM
 [📂 Source](https://github.com/Mic-360/winmole)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [hakai](https://github.com/Mic-360/hakai)
@@ -69,6 +80,8 @@ A high-performance rewrite of npkill, built with Rust for the filesystem engine 
 [📂 Source](https://github.com/Mic-360/hakai)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [tabineko](https://github.com/Mic-360/tabineko)
@@ -80,8 +93,6 @@ TabiNeko is a premium, production-ready mouse gesture extension for Chrome (Mani
 [📂 Source](https://github.com/Mic-360/tabineko)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [mamoru-waf](https://github.com/Mic-360/mamoru-waf)
@@ -93,6 +104,8 @@ A lightweight, modular, Go-based Web Application Firewall (WAF) reverse proxy. D
 [📂 Source](https://github.com/Mic-360/mamoru-waf)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [ai-feedbacks](https://github.com/Mic-360/ai-feedbacks)
@@ -104,8 +117,6 @@ AI Feedbacks is a web application designed to transform application issues and b
 [📂 Source](https://github.com/Mic-360/ai-feedbacks) · [🌐 Demo](https://ai-feedbacks.bhaumicsingh.tech)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [portfolio](https://github.com/Mic-360/portfolio)
@@ -117,6 +128,8 @@ A minimalist, high-performance personal portfolio built with the bleeding edge T
 [📂 Source](https://github.com/Mic-360/portfolio) · [🌐 Demo](https://bhaumicsingh.dev)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [material3-expressive-flutter](https://github.com/Mic-360/material3-expressive-flutter)
@@ -128,8 +141,6 @@ Agent skills for M3E flutter development.
 [📂 Source](https://github.com/Mic-360/material3-expressive-flutter)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [spotify_looper](https://github.com/Mic-360/spotify_looper)
@@ -141,6 +152,8 @@ Spotify Looper is an open-source Flutter app for creating precise loop points in
 [📂 Source](https://github.com/Mic-360/spotify_looper) · [🌐 Demo](https://spotify.bhaumicsingh.tech/)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [auto-copilot-review](https://github.com/Mic-360/auto-copilot-review)
@@ -152,8 +165,6 @@ Auto Copilot Review seamlessly integrates GitHub Copilot Chat into your Git work
 [📂 Source](https://github.com/Mic-360/auto-copilot-review)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [gemtry-twinverse](https://github.com/Mic-360/gemtry-twinverse)
@@ -165,6 +176,8 @@ A JavaScript-based project by Mic-360 for interactive or visual experiences, fea
 [📂 Source](https://github.com/Mic-360/gemtry-twinverse) · [🌐 Demo](https://twinverse.in/gemtry)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [tryon-modal](https://github.com/Mic-360/tryon-modal)
@@ -176,8 +189,6 @@ TwinTry™ is a cutting-edge virtual try-on module that allows users to visualiz
 [📂 Source](https://github.com/Mic-360/tryon-modal) · [🌐 Demo](https://twintry-modal.vercel.app)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [lost-treasure](https://github.com/Mic-360/lost-treasure)
@@ -189,6 +200,8 @@ Lost Treasure is a JavaScript-based game where players navigate through various 
 [📂 Source](https://github.com/Mic-360/lost-treasure)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [tryon-dash](https://github.com/Mic-360/tryon-dash)
@@ -200,8 +213,6 @@ TryOn Dash is an internal monitoring and management platform for Twinverse Tech'
 [📂 Source](https://github.com/Mic-360/tryon-dash) · [🌐 Demo](https://tryon-dash.vercel.app)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [iot-predictive-maintainance-system](https://github.com/Mic-360/iot-predictive-maintainance-system)
@@ -215,6 +226,8 @@ A system designed to predict equipment failures using machine learning algorithm
 [📂 Source](https://github.com/Mic-360/iot-predictive-maintainance-system)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [realtime-tracking](https://github.com/Mic-360/realtime-tracking)
@@ -226,8 +239,6 @@ Realtime Tracking is a web app for sharing geolocation in real-time. It uses Nod
 [📂 Source](https://github.com/Mic-360/realtime-tracking)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [link-tree-bento](https://github.com/Mic-360/link-tree-bento)
@@ -239,6 +250,8 @@ This is a link tree project made using sveltekit and firebase to manage all my s
 [📂 Source](https://github.com/Mic-360/link-tree-bento)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [blog-site](https://github.com/Mic-360/blog-site)
@@ -250,8 +263,6 @@ This is a blog site built with SvelteKit. Which covers the adventures of my deve
 [📂 Source](https://github.com/Mic-360/blog-site) · [🌐 Demo](https://blog-bhaumics-projects.vercel.app/)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [deno-server](https://github.com/Mic-360/deno-server)
@@ -263,6 +274,8 @@ A simple JSON Web Token based authentication server.
 [📂 Source](https://github.com/Mic-360/deno-server)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Twinverse-Space](https://github.com/Mic-360/Twinverse-Space)
@@ -276,8 +289,6 @@ Early Demo Site with Deno and Fresh
 [📂 Source](https://github.com/Mic-360/Twinverse-Space) · [🌐 Demo](https://twinverse-space.deno.dev)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [reactQuery-Todo](https://github.com/Mic-360/reactQuery-Todo)
@@ -291,6 +302,8 @@ This repository contains a sample todo application built using React and React Q
 [📂 Source](https://github.com/Mic-360/reactQuery-Todo)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [learn-react-hooks](https://github.com/Mic-360/learn-react-hooks)
@@ -302,8 +315,6 @@ _No description provided._
 [📂 Source](https://github.com/Mic-360/learn-react-hooks)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [link-shorterner-hacktoberfest](https://github.com/Mic-360/link-shorterner-hacktoberfest)
@@ -317,6 +328,8 @@ HacktoberFest: Link Shortener with Next js and Vercel Edge Functions using Plane
 [📂 Source](https://github.com/Mic-360/link-shorterner-hacktoberfest)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [Next-js-Scalable](https://github.com/Mic-360/Next-js-Scalable)
@@ -328,8 +341,6 @@ A fully scalable template for industrial and professional use.
 [📂 Source](https://github.com/Mic-360/Next-js-Scalable)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [code4odisha-app](https://github.com/Mic-360/code4odisha-app)
@@ -341,6 +352,8 @@ _No description provided._
 [📂 Source](https://github.com/Mic-360/code4odisha-app)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [loginauth](https://github.com/Mic-360/loginauth)
@@ -352,8 +365,6 @@ _No description provided._
 [📂 Source](https://github.com/Mic-360/loginauth)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [webpack-typescript](https://github.com/Mic-360/webpack-typescript)
@@ -365,6 +376,8 @@ _No description provided._
 [📂 Source](https://github.com/Mic-360/webpack-typescript)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [flutterfire](https://github.com/Mic-360/flutterfire)
@@ -376,8 +389,6 @@ Flutter Login Page Boilerplate for Android.
 [📂 Source](https://github.com/Mic-360/flutterfire)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [fablabUI](https://github.com/Mic-360/fablabUI)
@@ -389,6 +400,8 @@ _No description provided._
 [📂 Source](https://github.com/Mic-360/fablabUI)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [medipartner](https://github.com/Mic-360/medipartner)
@@ -400,8 +413,6 @@ _No description provided._
 [📂 Source](https://github.com/Mic-360/medipartner)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [Web_Dev_Bootcamp](https://github.com/Mic-360/Web_Dev_Bootcamp)
@@ -413,6 +424,8 @@ _No description provided._
 [📂 Source](https://github.com/Mic-360/Web_Dev_Bootcamp)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [vendor_asus](https://github.com/Mic-360/vendor_asus)
@@ -424,8 +437,6 @@ _No description provided._
 [📂 Source](https://github.com/Mic-360/vendor_asus)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [device_asus_sdm660-common](https://github.com/Mic-360/device_asus_sdm660-common)
@@ -437,6 +448,8 @@ Common device tree for SDM660 based ASUS devices
 [📂 Source](https://github.com/Mic-360/device_asus_sdm660-common)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [device_asus_X01BD](https://github.com/Mic-360/device_asus_X01BD)
@@ -448,6 +461,7 @@ Device Tree for ASUS ZenFone Max Pro (M2) ZB630/1KL The ASUS ZenFone Max Pro (M2
 [📂 Source](https://github.com/Mic-360/device_asus_X01BD)
 
 </td>
+<td width="50%"></td>
 </tr>
 </table>
 
